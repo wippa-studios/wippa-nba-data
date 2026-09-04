@@ -1,0 +1,1387 @@
+date,round,home_team,away_team,home_score,away_score,home_odds,away_odds,overtime,home_win,total_points,point_diff
+2017-10-01,Pre-season,Golden State Warriors,Denver Nuggets,102,108,1.27,3.97,False,False,210,-6
+2017-10-01,Pre-season,Los Angeles Lakers,Minnesota Timberwolves,99,108,2.57,1.55,False,False,207,-9
+2017-10-02,Pre-season,Toronto Raptors,Los Angeles Clippers,121,113,1.82,2.05,False,True,234,8
+2017-10-02,Pre-season,Miami Heat,Atlanta Hawks,96,90,1.36,3.33,False,True,186,6
+2017-10-03,Pre-season,Memphis Grizzlies,Orlando Magic,92,84,1.81,2.01,False,True,176,8
+2017-10-03,Pre-season,Los Angeles Lakers,Denver Nuggets,107,113,2.48,1.56,False,False,220,-6
+2017-10-03,Pre-season,Boston Celtics,Charlotte Hornets,94,82,1.31,3.51,False,True,176,12
+2017-10-03,Pre-season,Dallas Mavericks,Milwaukee Bucks,106,104,1.49,2.66,False,True,210,2
+2017-10-03,Pre-season,Sacramento Kings,San Antonio Spurs,106,100,2.02,1.81,False,True,206,6
+2017-10-04,Pre-season,Oklahoma City Thunder,Houston Rockets,97,104,3.07,1.38,False,False,201,-7
+2017-10-04,Pre-season,Los Angeles Clippers,Toronto Raptors,98,84,2.04,1.78,False,True,182,14
+2017-10-04,Pre-season,New York Knicks,Brooklyn Nets,107,115,1.59,2.41,False,False,222,-8
+2017-10-04,Pre-season,New Orleans Pelicans,Chicago Bulls,109,113,1.31,3.52,False,False,222,-4
+2017-10-04,Pre-season,Portland Trail Blazers,Phoenix Suns,112,114,1.39,3.03,False,False,226,-2
+2017-10-05,Pre-season,Philadelphia 76ers,Memphis Grizzlies,89,110,1.31,3.5,False,False,199,-21
+2017-10-05,Pre-season,Detroit Pistons,Charlotte Hornets,106,108,1.65,2.27,False,False,214,-2
+2017-10-05,Pre-season,Cleveland Cavaliers,Atlanta Hawks,93,109,1.29,3.63,False,False,202,-16
+2017-10-05,Pre-season,Milwaukee Bucks,Indiana Pacers,86,104,1.57,2.44,False,False,190,-18
+2017-10-05,Pre-season,Dallas Mavericks,Chicago Bulls,118,71,1.45,2.79,False,True,189,47
+2017-10-05,Pre-season,Los Angeles Lakers,Denver Nuggets,104,122,1.87,1.93,False,False,226,-18
+2017-10-05,Pre-season,Golden State Warriors,Minnesota Timberwolves,95,111,1.41,2.96,False,False,206,-16
+2017-10-06,Pre-season,Orlando Magic,Dallas Mavericks,112,89,1.42,2.92,False,True,201,23
+2017-10-06,Pre-season,Brooklyn Nets,Miami Heat,107,88,1.82,2.01,False,True,195,19
+2017-10-06,Pre-season,Portland Trail Blazers,Toronto Raptors,106,101,1.6,2.39,False,True,207,5
+2017-10-07,Pre-season,Chicago Bulls,Milwaukee Bucks,114,101,1.97,1.85,False,True,215,13
+2017-10-07,Pre-season,Oklahoma City Thunder,New Orleans Pelicans,102,91,1.42,2.91,False,True,193,11
+2017-10-07,Pre-season,Utah Jazz,Phoenix Suns,112,101,1.52,2.57,False,True,213,11
+2017-10-07,Pre-season,Detroit Pistons,Atlanta Hawks,109,87,1.48,2.68,False,True,196,22
+2017-10-07,Pre-season,Cleveland Cavaliers,Indiana Pacers,102,106,1.53,2.57,False,False,208,-4
+2017-10-07,Pre-season,Washington Wizards,New York Knicks,104,100,1.35,3.26,False,True,204,4
+2017-10-07,Pre-season,San Antonio Spurs,Sacramento Kings,113,93,1.42,2.9,False,True,206,20
+2017-10-07,Pre-season,Philadelphia 76ers,Boston Celtics,102,110,2.59,1.51,False,False,212,-8
+2017-10-08,Pre-season,Orlando Magic,Miami Heat,93,90,1.76,2.12,False,True,183,3
+2017-10-08,Pre-season,Minnesota Timberwolves,Golden State Warriors,110,142,2.88,1.42,False,False,252,-32
+2017-10-09,Pre-season,Brooklyn Nets,New York Knicks,117,83,1.63,2.38,False,True,200,34
+2017-10-09,Pre-season,Chicago Bulls,New Orleans Pelicans,95,108,2.48,1.58,False,False,203,-13
+2017-10-09,Pre-season,Los Angeles Lakers,Sacramento Kings,75,69,2.09,1.79,False,True,144,6
+2017-10-09,Pre-season,Los Angeles Clippers,Portland Trail Blazers,106,134,1.7,2.22,False,False,240,-28
+2017-10-09,Pre-season,Washington Wizards,Cleveland Cavaliers,102,95,1.36,3.33,False,True,197,7
+2017-10-09,Pre-season,San Antonio Spurs,Denver Nuggets,122,100,1.99,1.86,False,True,222,22
+2017-10-10,Pre-season,Detroit Pistons,Indiana Pacers,107,97,1.4,3.03,False,True,204,10
+2017-10-10,Pre-season,Miami Heat,Charlotte Hornets,109,106,1.53,2.56,False,True,215,3
+2017-10-10,Pre-season,Boston Celtics,Philadelphia 76ers,113,96,1.51,2.6,False,True,209,17
+2017-10-10,Pre-season,Atlanta Hawks,Memphis Grizzlies,99,88,2.06,1.76,False,True,187,11
+2017-10-10,Pre-season,Dallas Mavericks,Orlando Magic,99,96,1.38,3.03,False,True,195,3
+2017-10-10,Pre-season,Sacramento Kings,Portland Trail Blazers,83,97,3.08,1.37,False,False,180,-14
+2017-10-10,Pre-season,Phoenix Suns,Utah Jazz,102,120,1.49,2.66,False,False,222,-18
+2017-10-10,Pre-season,New York Knicks,Houston Rockets,95,117,3.8,1.26,False,False,212,-22
+2017-10-11,Pre-season,Denver Nuggets,Oklahoma City Thunder,86,96,1.64,2.28,False,False,182,-10
+2017-10-11,Pre-season,Los Angeles Lakers,Utah Jazz,99,105,2.01,1.81,False,False,204,-6
+2017-10-11,Pre-season,San Antonio Spurs,Orlando Magic,98,103,1.2,4.59,False,False,201,-5
+2017-10-11,Pre-season,Toronto Raptors,Detroit Pistons,116,94,1.4,3.01,False,True,210,22
+2017-10-11,Pre-season,Cleveland Cavaliers,Chicago Bulls,94,108,1.23,4.22,False,False,202,-14
+2017-10-12,Pre-season,Miami Heat,Washington Wizards,117,115,1.92,1.93,False,True,232,2
+2017-10-12,Pre-season,Phoenix Suns,Portland Trail Blazers,104,113,3.46,1.32,False,False,217,-9
+2017-10-12,Pre-season,Charlotte Hornets,Boston Celtics,100,108,3.68,1.3,False,False,208,-8
+2017-10-12,Pre-season,Brooklyn Nets,Philadelphia 76ers,114,133,1.41,3.03,False,False,247,-19
+2017-10-12,Pre-season,Memphis Grizzlies,Houston Rockets,89,101,3.5,1.31,False,False,190,-12
+2017-10-13,Pre-season,Atlanta Hawks,Dallas Mavericks,94,108,1.42,3.01,False,False,202,-14
+2017-10-13,Pre-season,Los Angeles Clippers,Sacramento Kings,104,87,1.42,3.02,False,True,191,17
+2017-10-14,Pre-season,Charlotte Hornets,Dallas Mavericks,111,96,1.32,3.45,False,True,207,15
+2017-10-14,Pre-season,Orlando Magic,Cleveland Cavaliers,106,113,2.15,1.7,False,False,219,-7
+2017-10-14,Pre-season,Golden State Warriors,Sacramento Kings,117,106,1.14,5.84,False,True,223,11
+2017-10-14,Pre-season,Memphis Grizzlies,New Orleans Pelicans,142,101,1.56,2.47,False,True,243,41
+2017-10-14,Pre-season,Houston Rockets,San Antonio Spurs,97,106,1.33,3.41,False,False,203,-9
+2017-10-14,Pre-season,Chicago Bulls,Toronto Raptors,104,125,3.32,1.34,False,False,229,-21
+2017-10-14,Pre-season,Philadelphia 76ers,Miami Heat,119,95,1.58,2.44,False,True,214,24
+2017-10-14,Pre-season,Milwaukee Bucks,Detroit Pistons,107,103,1.52,2.6,False,True,210,4
+2017-10-14,Pre-season,Los Angeles Clippers,Los Angeles Lakers,104,111,2.83,1.43,False,False,215,-7
+2017-10-14,Pre-season,New York Knicks,Washington Wizards,103,110,3.1,1.37,False,False,213,-7
+2017-10-18,,Golden State Warriors,Houston Rockets,121,122,1.22,4.55,False,False,243,-1
+2017-10-18,,Cleveland Cavaliers,Boston Celtics,102,99,1.54,2.6,False,True,201,3
+2017-10-19,,Sacramento Kings,Houston Rockets,100,105,3.36,1.35,False,False,205,-5
+2017-10-19,,San Antonio Spurs,Minnesota Timberwolves,107,99,1.86,1.99,False,True,206,8
+2017-10-19,,Utah Jazz,Denver Nuggets,106,96,1.74,2.16,False,True,202,10
+2017-10-19,,Dallas Mavericks,Atlanta Hawks,111,117,1.46,2.8,False,False,228,-6
+2017-10-19,,Phoenix Suns,Portland Trail Blazers,76,124,2.1,1.78,False,False,200,-48
+2017-10-19,,Boston Celtics,Milwaukee Bucks,100,108,1.77,2.11,False,False,208,-8
+2017-10-19,,Indiana Pacers,Brooklyn Nets,140,131,1.66,2.28,False,True,271,9
+2017-10-19,,Detroit Pistons,Charlotte Hornets,102,90,1.68,2.26,False,True,192,12
+2017-10-19,,Orlando Magic,Miami Heat,116,109,2.43,1.6,False,True,225,7
+2017-10-19,,Memphis Grizzlies,New Orleans Pelicans,103,91,1.79,2.08,False,True,194,12
+2017-10-19,,Washington Wizards,Philadelphia 76ers,120,115,1.36,3.29,False,True,235,5
+2017-10-20,,Toronto Raptors,Chicago Bulls,117,100,1.09,8.62,False,True,217,17
+2017-10-20,,Oklahoma City Thunder,New York Knicks,105,84,1.12,7.09,False,True,189,21
+2017-10-20,,Los Angeles Lakers,Los Angeles Clippers,92,108,3.08,1.4,False,False,200,-16
+2017-10-21,,Minnesota Timberwolves,Utah Jazz,100,97,1.54,2.57,False,True,197,3
+2017-10-21,,Phoenix Suns,Los Angeles Lakers,130,132,1.61,2.39,False,False,262,-2
+2017-10-21,,New Orleans Pelicans,Golden State Warriors,120,128,4.5,1.22,False,False,248,-8
+2017-10-21,,Dallas Mavericks,Sacramento Kings,88,93,1.46,2.84,False,False,181,-5
+2017-10-21,,Brooklyn Nets,Orlando Magic,126,121,1.76,2.13,False,True,247,5
+2017-10-21,,Philadelphia 76ers,Boston Celtics,92,102,1.67,2.26,False,False,194,-10
+2017-10-21,,Indiana Pacers,Portland Trail Blazers,96,114,2.79,1.47,False,False,210,-18
+2017-10-21,,Charlotte Hornets,Atlanta Hawks,109,91,1.54,2.6,False,True,200,18
+2017-10-21,,Milwaukee Bucks,Cleveland Cavaliers,97,116,1.92,1.93,False,False,213,-19
+2017-10-21,,Washington Wizards,Detroit Pistons,115,111,1.37,3.22,False,True,226,4
+2017-10-22,,Los Angeles Clippers,Phoenix Suns,130,88,1.08,8.97,False,True,218,42
+2017-10-22,,Denver Nuggets,Sacramento Kings,96,79,1.12,6.84,False,True,175,17
+2017-10-22,,Milwaukee Bucks,Portland Trail Blazers,113,110,1.66,2.3,False,True,223,3
+2017-10-22,,Chicago Bulls,San Antonio Spurs,77,87,5.48,1.17,False,False,164,-10
+2017-10-22,,Utah Jazz,Oklahoma City Thunder,96,87,2.63,1.51,False,True,183,9
+2017-10-22,,Houston Rockets,Dallas Mavericks,107,91,1.14,6.37,False,True,198,16
+2017-10-22,,New York Knicks,Detroit Pistons,107,111,2.05,1.81,False,False,218,-4
+2017-10-22,,Memphis Grizzlies,Golden State Warriors,111,101,4.07,1.26,False,True,212,10
+2017-10-22,,Miami Heat,Indiana Pacers,112,108,1.21,4.66,False,True,220,4
+2017-10-22,,Toronto Raptors,Philadelphia 76ers,128,94,1.23,4.36,False,True,222,34
+2017-10-22,,Cleveland Cavaliers,Orlando Magic,93,114,1.12,7.15,False,False,207,-21
+2017-10-23,,Brooklyn Nets,Atlanta Hawks,116,104,1.83,2.01,False,True,220,12
+2017-10-23,,Oklahoma City Thunder,Minnesota Timberwolves,113,115,1.56,2.54,False,False,228,-2
+2017-10-23,,Los Angeles Lakers,New Orleans Pelicans,112,119,2.68,1.49,False,False,231,-7
+2017-10-24,,Denver Nuggets,Washington Wizards,104,109,1.51,2.67,False,False,213,-5
+2017-10-24,,Phoenix Suns,Sacramento Kings,117,115,2.17,1.73,False,True,232,2
+2017-10-24,,Dallas Mavericks,Golden State Warriors,103,133,8.44,1.08,False,False,236,-30
+2017-10-24,,Miami Heat,Atlanta Hawks,104,93,1.13,6.36,False,True,197,11
+2017-10-24,,Milwaukee Bucks,Charlotte Hornets,103,94,1.38,3.18,False,True,197,9
+2017-10-24,,Houston Rockets,Memphis Grizzlies,90,98,1.29,3.76,False,False,188,-8
+2017-10-24,,Detroit Pistons,Philadelphia 76ers,86,97,1.6,2.44,False,False,183,-11
+2017-10-24,,San Antonio Spurs,Toronto Raptors,101,97,1.69,2.24,False,True,198,4
+2017-10-25,,Cleveland Cavaliers,Chicago Bulls,119,112,1.05,11.97,False,True,231,7
+2017-10-25,,Orlando Magic,Brooklyn Nets,125,121,1.53,2.62,False,True,246,4
+2017-10-25,,Boston Celtics,New York Knicks,110,89,1.34,3.38,False,True,199,21
+2017-10-25,,Minnesota Timberwolves,Indiana Pacers,107,130,1.14,6.07,False,False,237,-23
+2017-10-25,,Portland Trail Blazers,New Orleans Pelicans,103,93,1.51,2.68,False,True,196,10
+2017-10-25,,Los Angeles Clippers,Utah Jazz,102,84,1.51,2.66,False,True,186,18
+2017-10-26,,Dallas Mavericks,Memphis Grizzlies,103,94,2.36,1.63,False,True,197,9
+2017-10-26,,Los Angeles Lakers,Washington Wizards,102,99,2.74,1.47,True,True,201,3
+2017-10-26,,Phoenix Suns,Utah Jazz,97,88,3.52,1.33,False,True,185,9
+2017-10-26,,Oklahoma City Thunder,Indiana Pacers,114,96,1.1,7.95,False,True,210,18
+2017-10-26,,Golden State Warriors,Toronto Raptors,117,112,1.1,7.71,False,True,229,5
+2017-10-26,,Brooklyn Nets,Cleveland Cavaliers,112,107,3.58,1.31,False,True,219,5
+2017-10-26,,Charlotte Hornets,Denver Nuggets,110,93,2.17,1.73,False,True,203,17
+2017-10-26,,Detroit Pistons,Minnesota Timberwolves,122,101,1.72,2.19,False,True,223,21
+2017-10-26,,Miami Heat,San Antonio Spurs,100,117,2.34,1.64,False,False,217,-17
+2017-10-26,,Philadelphia 76ers,Houston Rockets,104,105,2.36,1.62,False,False,209,-1
+2017-10-27,,Sacramento Kings,New Orleans Pelicans,106,114,1.91,1.94,False,False,220,-8
+2017-10-27,,Portland Trail Blazers,Los Angeles Clippers,103,104,1.77,2.1,False,False,207,-1
+2017-10-27,,Milwaukee Bucks,Boston Celtics,89,96,1.55,2.53,False,False,185,-7
+2017-10-27,,Memphis Grizzlies,Dallas Mavericks,96,91,1.32,3.57,False,True,187,5
+2017-10-27,,Chicago Bulls,Atlanta Hawks,91,86,1.75,2.14,False,True,177,5
+2017-10-28,,Orlando Magic,San Antonio Spurs,114,87,2.78,1.47,False,True,201,27
+2017-10-28,,Charlotte Hornets,Houston Rockets,93,109,2.24,1.69,False,False,202,-16
+2017-10-28,,New York Knicks,Brooklyn Nets,107,86,1.73,2.17,False,True,193,21
+2017-10-28,,Atlanta Hawks,Denver Nuggets,100,105,3.34,1.35,False,False,205,-5
+2017-10-28,,Minnesota Timberwolves,Oklahoma City Thunder,119,116,2.15,1.74,False,True,235,3
+2017-10-28,,Los Angeles Lakers,Toronto Raptors,92,101,3.04,1.41,False,False,193,-9
+2017-10-28,,Golden State Warriors,Washington Wizards,120,117,1.14,6.19,False,True,237,3
+2017-10-29,,New Orleans Pelicans,Cleveland Cavaliers,123,101,2.22,1.69,False,True,224,22
+2017-10-29,,Dallas Mavericks,Philadelphia 76ers,110,112,1.95,1.86,False,False,222,-2
+2017-10-29,,Portland Trail Blazers,Phoenix Suns,114,107,1.13,6.61,False,True,221,7
+2017-10-29,,Los Angeles Clippers,Detroit Pistons,87,95,1.29,3.59,False,False,182,-8
+2017-10-30,,Cleveland Cavaliers,New York Knicks,95,114,1.17,5.51,False,False,209,-19
+2017-10-30,,Brooklyn Nets,Denver Nuggets,111,124,2.78,1.47,False,False,235,-13
+2017-10-30,,Golden State Warriors,Detroit Pistons,107,115,1.07,9.75,False,False,222,-8
+2017-10-30,,Sacramento Kings,Washington Wizards,83,110,3.5,1.32,False,False,193,-27
+2017-10-30,,Indiana Pacers,San Antonio Spurs,97,94,3.26,1.37,False,True,191,3
+2017-10-30,,Atlanta Hawks,Milwaukee Bucks,106,117,2.8,1.45,False,False,223,-11
+2017-10-30,,Charlotte Hornets,Orlando Magic,120,113,1.58,2.49,False,True,233,7
+2017-10-31,,Los Angeles Clippers,Golden State Warriors,113,141,2.94,1.42,False,False,254,-28
+2017-10-31,,Utah Jazz,Dallas Mavericks,104,89,1.29,3.82,False,True,193,15
+2017-10-31,,Memphis Grizzlies,Charlotte Hornets,99,104,1.5,2.68,False,False,203,-5
+2017-10-31,,Portland Trail Blazers,Toronto Raptors,85,99,1.59,2.43,False,False,184,-14
+2017-10-31,,New Orleans Pelicans,Orlando Magic,99,115,1.33,3.49,False,False,214,-16
+2017-10-31,,Boston Celtics,San Antonio Spurs,108,94,1.63,2.38,False,True,202,14
+2017-10-31,,New York Knicks,Denver Nuggets,116,110,2.53,1.56,False,True,226,6
+2017-10-31,,Miami Heat,Minnesota Timberwolves,122,125,2.31,1.64,True,False,247,-3
+2017-10-31,,Houston Rockets,Philadelphia 76ers,107,115,1.35,3.36,False,False,222,-8
+2017-11-01,,Indiana Pacers,Sacramento Kings,101,83,1.47,2.78,False,True,184,18
+2017-11-01,,Brooklyn Nets,Phoenix Suns,114,122,1.55,2.57,False,False,236,-8
+2017-11-01,,Milwaukee Bucks,Oklahoma City Thunder,91,110,2.17,1.73,False,False,201,-19
+2017-11-01,,Los Angeles Lakers,Detroit Pistons,113,93,2.28,1.66,False,True,206,20
+2017-11-02,,Los Angeles Clippers,Dallas Mavericks,119,98,1.19,5.03,False,True,217,21
+2017-11-02,,Utah Jazz,Portland Trail Blazers,112,103,1.61,2.4,True,True,215,9
+2017-11-02,,Denver Nuggets,Toronto Raptors,129,111,1.8,2.07,False,True,240,18
+2017-11-02,,New York Knicks,Houston Rockets,97,119,2.92,1.42,False,False,216,-22
+2017-11-02,,Memphis Grizzlies,Orlando Magic,99,101,1.68,2.25,False,False,200,-2
+2017-11-02,,Boston Celtics,Sacramento Kings,113,86,1.12,6.95,False,True,199,27
+2017-11-02,,Miami Heat,Chicago Bulls,97,91,1.18,5.29,False,True,188,6
+2017-11-02,,Washington Wizards,Phoenix Suns,116,122,1.14,6.14,False,False,238,-6
+2017-11-02,,Cleveland Cavaliers,Indiana Pacers,107,124,1.21,4.8,False,False,231,-17
+2017-11-02,,New Orleans Pelicans,Minnesota Timberwolves,98,104,1.75,2.13,False,False,202,-6
+2017-11-02,,Philadelphia 76ers,Atlanta Hawks,119,109,1.31,3.6,False,True,228,10
+2017-11-02,,Charlotte Hornets,Milwaukee Bucks,126,121,1.61,2.41,False,True,247,5
+2017-11-03,,Portland Trail Blazers,Los Angeles Lakers,113,110,1.42,3.01,False,True,223,3
+2017-11-03,,San Antonio Spurs,Golden State Warriors,92,112,3.81,1.28,False,False,204,-20
+2017-11-04,,Philadelphia 76ers,Indiana Pacers,121,110,1.54,2.57,False,True,231,11
+2017-11-04,,Detroit Pistons,Milwaukee Bucks,105,96,1.82,2.04,False,True,201,9
+2017-11-04,,Washington Wizards,Cleveland Cavaliers,122,130,1.67,2.28,False,False,252,-8
+2017-11-04,,Orlando Magic,Chicago Bulls,83,105,1.3,3.67,False,False,188,-22
+2017-11-04,,New York Knicks,Phoenix Suns,120,107,1.57,2.51,False,True,227,13
+2017-11-04,,Dallas Mavericks,New Orleans Pelicans,94,99,2.58,1.54,False,False,193,-5
+2017-11-04,,San Antonio Spurs,Charlotte Hornets,108,101,1.53,2.63,False,True,209,7
+2017-11-04,,Utah Jazz,Toronto Raptors,100,109,1.82,2.04,False,False,209,-9
+2017-11-04,,Denver Nuggets,Miami Heat,95,94,1.45,2.84,False,True,189,1
+2017-11-04,,Oklahoma City Thunder,Boston Celtics,94,101,1.39,3.13,False,False,195,-7
+2017-11-04,,Los Angeles Lakers,Brooklyn Nets,124,112,1.69,2.23,False,True,236,12
+2017-11-04,,Atlanta Hawks,Houston Rockets,104,119,4.21,1.24,False,False,223,-15
+2017-11-05,,Denver Nuggets,Golden State Warriors,108,127,4.17,1.25,False,False,235,-19
+2017-11-05,,Chicago Bulls,New Orleans Pelicans,90,96,2.8,1.46,True,False,186,-6
+2017-11-05,,Detroit Pistons,Sacramento Kings,108,99,1.25,4.23,False,True,207,9
+2017-11-05,,Los Angeles Clippers,Memphis Grizzlies,104,113,1.5,2.68,False,False,217,-9
+2017-11-05,,Minnesota Timberwolves,Dallas Mavericks,112,99,1.12,6.64,False,True,211,13
+2017-11-06,,Los Angeles Lakers,Memphis Grizzlies,107,102,2.21,1.71,False,True,209,5
+2017-11-06,,Portland Trail Blazers,Oklahoma City Thunder,103,99,2.27,1.67,False,True,202,4
+2017-11-06,,New York Knicks,Indiana Pacers,108,101,1.95,1.89,False,True,209,7
+2017-11-06,,Houston Rockets,Utah Jazz,137,110,1.41,3.02,False,True,247,27
+2017-11-06,,Minnesota Timberwolves,Charlotte Hornets,112,94,1.52,2.63,False,True,206,18
+2017-11-06,,Orlando Magic,Boston Celtics,88,104,2.35,1.64,False,False,192,-16
+2017-11-06,,Toronto Raptors,Washington Wizards,96,107,1.38,3.16,False,False,203,-11
+2017-11-06,,Los Angeles Clippers,Miami Heat,101,104,1.48,2.76,False,False,205,-3
+2017-11-06,,Cleveland Cavaliers,Atlanta Hawks,115,117,1.12,6.98,False,False,232,-2
+2017-11-06,,San Antonio Spurs,Phoenix Suns,112,95,1.2,4.85,False,True,207,17
+2017-11-07,,Atlanta Hawks,Boston Celtics,107,110,3.72,1.3,False,False,217,-3
+2017-11-07,,Phoenix Suns,Brooklyn Nets,92,98,1.96,1.88,False,False,190,-6
+2017-11-07,,Golden State Warriors,Miami Heat,97,80,1.07,9.36,False,True,177,17
+2017-11-08,,Portland Trail Blazers,Memphis Grizzlies,97,98,1.72,2.19,False,False,195,-1
+2017-11-08,,Sacramento Kings,Oklahoma City Thunder,94,86,5.64,1.16,False,True,180,8
+2017-11-08,,Utah Jazz,Philadelphia 76ers,97,104,1.39,3.15,False,False,201,-7
+2017-11-08,,Denver Nuggets,Brooklyn Nets,112,104,1.12,6.88,False,True,216,8
+2017-11-08,,San Antonio Spurs,Los Angeles Clippers,120,107,1.59,2.46,False,True,227,13
+2017-11-08,,Toronto Raptors,Chicago Bulls,119,114,1.14,6.13,False,True,233,5
+2017-11-08,,Cleveland Cavaliers,Milwaukee Bucks,124,119,1.48,2.75,False,True,243,5
+2017-11-08,,Washington Wizards,Dallas Mavericks,99,113,1.19,5.06,False,False,212,-14
+2017-11-08,,Indiana Pacers,New Orleans Pelicans,112,117,2.01,1.84,False,False,229,-5
+2017-11-08,,New York Knicks,Charlotte Hornets,118,113,2.13,1.76,False,True,231,5
+2017-11-09,,Phoenix Suns,Miami Heat,115,126,3.01,1.41,False,False,241,-11
+2017-11-09,,Golden State Warriors,Minnesota Timberwolves,125,101,1.29,3.8,False,True,226,24
+2017-11-09,,Detroit Pistons,Indiana Pacers,114,97,1.39,3.12,False,True,211,17
+2017-11-09,,Orlando Magic,New York Knicks,112,99,1.27,3.94,False,True,211,13
+2017-11-09,,Boston Celtics,Los Angeles Lakers,107,96,1.36,3.27,False,True,203,11
+2017-11-10,,Washington Wizards,Los Angeles Lakers,111,95,1.19,5.0,False,True,206,16
+2017-11-10,,Toronto Raptors,New Orleans Pelicans,122,118,1.46,2.82,False,True,240,4
+2017-11-10,,Houston Rockets,Cleveland Cavaliers,117,113,1.46,2.8,False,True,230,4
+2017-11-10,,Sacramento Kings,Philadelphia 76ers,109,108,2.99,1.42,False,True,217,1
+2017-11-10,,Denver Nuggets,Oklahoma City Thunder,102,94,2.11,1.77,False,True,196,8
+2017-11-11,,Utah Jazz,Miami Heat,74,84,1.68,2.26,False,False,158,-10
+2017-11-11,,Portland Trail Blazers,Brooklyn Nets,97,101,1.26,4.04,False,False,198,-4
+2017-11-11,,San Antonio Spurs,Milwaukee Bucks,87,94,1.52,2.63,False,False,181,-7
+2017-11-11,,Oklahoma City Thunder,Los Angeles Clippers,120,111,1.45,2.85,False,True,231,9
+2017-11-11,,Chicago Bulls,Indiana Pacers,87,105,2.3,1.65,False,False,192,-18
+2017-11-11,,Boston Celtics,Charlotte Hornets,90,87,1.68,2.26,False,True,177,3
+2017-11-11,,Detroit Pistons,Atlanta Hawks,111,104,1.3,3.72,False,True,215,7
+2017-11-11,,Phoenix Suns,Orlando Magic,112,128,2.39,1.62,False,False,240,-16
+2017-11-12,,Utah Jazz,Brooklyn Nets,114,106,1.36,3.29,False,True,220,8
+2017-11-12,,Denver Nuggets,Orlando Magic,125,107,1.28,3.89,False,True,232,18
+2017-11-12,,San Antonio Spurs,Chicago Bulls,133,94,1.18,5.24,False,True,227,39
+2017-11-12,,Dallas Mavericks,Cleveland Cavaliers,104,111,3.01,1.4,False,False,215,-7
+2017-11-12,,Phoenix Suns,Minnesota Timberwolves,118,110,4.75,1.21,False,True,228,8
+2017-11-12,,Milwaukee Bucks,Los Angeles Lakers,98,90,1.41,3.03,False,True,188,8
+2017-11-12,,Houston Rockets,Memphis Grizzlies,111,96,1.36,3.3,False,True,207,15
+2017-11-12,,New York Knicks,Sacramento Kings,118,91,1.4,3.11,False,True,209,27
+2017-11-12,,Washington Wizards,Atlanta Hawks,113,94,1.19,5.0,False,True,207,19
+2017-11-12,,New Orleans Pelicans,Los Angeles Clippers,111,103,1.45,2.85,False,True,214,8
+2017-11-12,,Golden State Warriors,Philadelphia 76ers,135,114,1.1,7.68,False,True,249,21
+2017-11-13,,Boston Celtics,Toronto Raptors,95,94,2.33,1.63,False,True,189,1
+2017-11-13,,Detroit Pistons,Miami Heat,112,103,1.77,2.12,False,True,215,9
+2017-11-13,,Indiana Pacers,Houston Rockets,95,118,2.34,1.63,False,False,213,-23
+2017-11-13,,Oklahoma City Thunder,Dallas Mavericks,112,99,1.17,5.62,False,True,211,13
+2017-11-14,,Golden State Warriors,Orlando Magic,110,100,1.12,6.87,False,True,210,10
+2017-11-14,,Los Angeles Clippers,Philadelphia 76ers,105,109,1.78,2.1,False,False,214,-4
+2017-11-14,,Portland Trail Blazers,Denver Nuggets,99,82,1.77,2.11,False,True,181,17
+2017-11-14,,Phoenix Suns,Los Angeles Lakers,93,100,1.87,1.97,False,False,193,-7
+2017-11-14,,Utah Jazz,Minnesota Timberwolves,98,109,2.27,1.67,False,False,207,-11
+2017-11-14,,Milwaukee Bucks,Memphis Grizzlies,110,103,1.66,2.3,False,True,213,7
+2017-11-14,,New York Knicks,Cleveland Cavaliers,101,104,2.85,1.44,False,False,205,-3
+2017-11-14,,Washington Wizards,Sacramento Kings,110,92,1.14,6.21,False,True,202,18
+2017-11-14,,New Orleans Pelicans,Atlanta Hawks,106,105,1.25,4.21,False,True,211,1
+2017-11-15,,Brooklyn Nets,Boston Celtics,102,109,3.17,1.38,False,False,211,-7
+2017-11-15,,Houston Rockets,Toronto Raptors,113,129,1.39,3.16,False,False,242,-16
+2017-11-15,,Dallas Mavericks,San Antonio Spurs,91,97,3.13,1.39,False,False,188,-6
+2017-11-16,,Los Angeles Lakers,Philadelphia 76ers,109,115,2.43,1.6,False,False,224,-6
+2017-11-16,,Portland Trail Blazers,Orlando Magic,99,94,1.48,2.75,False,True,193,5
+2017-11-16,,Charlotte Hornets,Cleveland Cavaliers,107,115,1.92,1.9,False,False,222,-8
+2017-11-16,,Oklahoma City Thunder,Chicago Bulls,92,79,1.11,7.63,False,True,171,13
+2017-11-16,,Milwaukee Bucks,Detroit Pistons,99,95,1.53,2.6,False,True,194,4
+2017-11-16,,Minnesota Timberwolves,San Antonio Spurs,98,86,1.53,2.61,False,True,184,12
+2017-11-16,,New Orleans Pelicans,Toronto Raptors,116,125,1.69,2.25,False,False,241,-9
+2017-11-16,,Atlanta Hawks,Sacramento Kings,126,80,1.5,2.69,False,True,206,46
+2017-11-16,,Miami Heat,Washington Wizards,93,102,1.82,2.05,False,False,195,-9
+2017-11-16,,New York Knicks,Utah Jazz,106,101,1.59,2.45,False,True,207,5
+2017-11-16,,Memphis Grizzlies,Indiana Pacers,113,116,1.68,2.26,False,False,229,-3
+2017-11-17,,Boston Celtics,Golden State Warriors,92,88,3.35,1.34,False,True,180,4
+2017-11-17,,Phoenix Suns,Houston Rockets,116,142,7.48,1.1,False,False,258,-26
+2017-11-18,,Dallas Mavericks,Minnesota Timberwolves,87,111,2.94,1.43,False,False,198,-24
+2017-11-18,,Denver Nuggets,New Orleans Pelicans,146,114,1.55,2.56,False,True,260,32
+2017-11-18,,Los Angeles Lakers,Phoenix Suns,113,122,1.33,3.45,False,False,235,-9
+2017-11-18,,Sacramento Kings,Portland Trail Blazers,86,82,3.22,1.37,False,True,168,4
+2017-11-18,,Chicago Bulls,Charlotte Hornets,123,120,3.17,1.38,False,True,243,3
+2017-11-18,,Washington Wizards,Miami Heat,88,91,1.54,2.59,False,False,179,-3
+2017-11-18,,Brooklyn Nets,Utah Jazz,118,107,1.76,2.12,False,True,225,11
+2017-11-18,,Cleveland Cavaliers,Los Angeles Clippers,118,113,1.38,3.19,True,True,231,5
+2017-11-18,,Toronto Raptors,New York Knicks,107,84,1.3,3.67,False,True,191,23
+2017-11-18,,Indiana Pacers,Detroit Pistons,107,100,1.88,1.96,False,True,207,7
+2017-11-18,,San Antonio Spurs,Oklahoma City Thunder,104,101,2.02,1.83,False,True,205,3
+2017-11-19,,Orlando Magic,Utah Jazz,85,125,1.41,3.03,False,False,210,-40
+2017-11-19,,Charlotte Hornets,Los Angeles Clippers,102,87,1.49,2.75,False,True,189,15
+2017-11-19,,Philadelphia 76ers,Golden State Warriors,116,124,4.35,1.23,False,False,240,-8
+2017-11-19,,Atlanta Hawks,Boston Celtics,99,110,2.96,1.42,False,False,209,-11
+2017-11-19,,Memphis Grizzlies,Houston Rockets,83,105,3.54,1.33,False,False,188,-22
+2017-11-19,,Dallas Mavericks,Milwaukee Bucks,111,79,3.01,1.42,False,True,190,32
+2017-11-19,,Portland Trail Blazers,Sacramento Kings,102,90,1.12,6.78,False,True,192,12
+2017-11-20,,Los Angeles Lakers,Denver Nuggets,127,109,2.71,1.48,False,True,236,18
+2017-11-20,,Minnesota Timberwolves,Detroit Pistons,97,100,1.44,2.89,False,False,197,-3
+2017-11-20,,Phoenix Suns,Chicago Bulls,113,105,1.73,2.17,False,True,218,8
+2017-11-20,,Miami Heat,Indiana Pacers,95,120,1.47,2.78,False,False,215,-25
+2017-11-20,,Brooklyn Nets,Golden State Warriors,111,118,6.36,1.13,False,False,229,-7
+2017-11-20,,Toronto Raptors,Washington Wizards,100,91,1.38,3.2,False,True,191,9
+2017-11-21,,Philadelphia 76ers,Utah Jazz,107,86,1.45,2.87,False,True,193,21
+2017-11-21,,Sacramento Kings,Denver Nuggets,98,114,2.67,1.5,False,False,212,-16
+2017-11-21,,Memphis Grizzlies,Portland Trail Blazers,92,100,1.97,1.88,False,False,192,-8
+2017-11-21,,Milwaukee Bucks,Washington Wizards,88,99,1.63,2.35,False,False,187,-11
+2017-11-21,,San Antonio Spurs,Atlanta Hawks,96,85,1.24,4.32,False,True,181,11
+2017-11-21,,New York Knicks,Los Angeles Clippers,107,85,2.11,1.77,False,True,192,22
+2017-11-21,,Charlotte Hornets,Minnesota Timberwolves,118,102,1.73,2.17,False,True,220,16
+2017-11-21,,Detroit Pistons,Cleveland Cavaliers,88,116,2.08,1.78,False,False,204,-28
+2017-11-21,,Orlando Magic,Indiana Pacers,97,105,1.63,2.35,False,False,202,-8
+2017-11-21,,New Orleans Pelicans,Oklahoma City Thunder,114,107,2.19,1.73,False,True,221,7
+2017-11-21,,Dallas Mavericks,Boston Celtics,102,110,3.28,1.36,True,False,212,-8
+2017-11-22,,Los Angeles Lakers,Chicago Bulls,103,94,1.46,2.81,False,True,197,9
+2017-11-23,,Oklahoma City Thunder,Golden State Warriors,108,91,2.83,1.46,False,True,199,17
+2017-11-23,,Sacramento Kings,Los Angeles Lakers,113,102,1.86,1.99,False,True,215,11
+2017-11-23,,Phoenix Suns,Milwaukee Bucks,107,113,2.09,1.79,True,False,220,-6
+2017-11-23,,Utah Jazz,Chicago Bulls,110,80,1.25,4.21,False,True,190,30
+2017-11-23,,Memphis Grizzlies,Dallas Mavericks,94,95,1.44,2.84,False,False,189,-1
+2017-11-23,,Houston Rockets,Denver Nuggets,125,95,1.24,4.25,False,True,220,30
+2017-11-23,,New Orleans Pelicans,San Antonio Spurs,107,90,1.87,1.99,False,True,197,17
+2017-11-23,,Atlanta Hawks,Los Angeles Clippers,103,116,2.29,1.66,False,False,219,-13
+2017-11-23,,Miami Heat,Boston Celtics,104,98,2.05,1.8,False,True,202,6
+2017-11-23,,New York Knicks,Toronto Raptors,108,100,2.44,1.59,False,True,208,8
+2017-11-23,,Cleveland Cavaliers,Brooklyn Nets,119,109,1.14,6.24,False,True,228,10
+2017-11-23,,Charlotte Hornets,Washington Wizards,129,124,1.71,2.2,True,True,253,5
+2017-11-23,,Philadelphia 76ers,Portland Trail Blazers,101,81,1.61,2.42,False,True,182,20
+2017-11-23,,Minnesota Timberwolves,Orlando Magic,124,118,1.38,3.2,False,True,242,6
+2017-11-25,,Golden State Warriors,Chicago Bulls,143,94,1.06,11.19,False,True,237,49
+2017-11-25,,Denver Nuggets,Memphis Grizzlies,104,92,1.41,3.02,False,True,196,12
+2017-11-25,,Phoenix Suns,New Orleans Pelicans,91,115,3.15,1.38,False,False,206,-24
+2017-11-25,,Cleveland Cavaliers,Charlotte Hornets,100,99,1.46,2.83,False,True,199,1
+2017-11-25,,Minnesota Timberwolves,Miami Heat,97,109,1.55,2.53,False,False,206,-12
+2017-11-25,,Indiana Pacers,Toronto Raptors,107,104,2.11,1.77,False,True,211,3
+2017-11-25,,Atlanta Hawks,New York Knicks,116,104,1.79,2.09,False,True,220,12
+2017-11-25,,Boston Celtics,Orlando Magic,118,103,1.35,3.37,False,True,221,15
+2017-11-25,,Brooklyn Nets,Portland Trail Blazers,125,127,2.54,1.55,False,False,252,-2
+2017-11-25,,Oklahoma City Thunder,Detroit Pistons,98,99,1.26,4.04,False,False,197,-1
+2017-11-26,,Sacramento Kings,Los Angeles Clippers,95,97,2.55,1.56,False,False,192,-2
+2017-11-26,,Utah Jazz,Milwaukee Bucks,121,108,1.91,1.93,False,True,229,13
+2017-11-26,,Dallas Mavericks,Oklahoma City Thunder,97,81,3.01,1.41,False,True,178,16
+2017-11-26,,Golden State Warriors,New Orleans Pelicans,110,95,1.17,5.49,False,True,205,15
+2017-11-26,,Indiana Pacers,Boston Celtics,98,108,2.3,1.66,False,False,206,-10
+2017-11-26,,Atlanta Hawks,Toronto Raptors,78,112,3.19,1.38,False,False,190,-34
+2017-11-26,,Charlotte Hornets,San Antonio Spurs,86,106,1.84,2.01,False,False,192,-20
+2017-11-26,,Philadelphia 76ers,Orlando Magic,130,111,1.47,2.8,False,True,241,19
+2017-11-26,,Washington Wizards,Portland Trail Blazers,105,108,1.55,2.55,False,False,213,-3
+2017-11-26,,Houston Rockets,New York Knicks,117,102,1.03,16.31,False,True,219,15
+2017-11-27,,Minnesota Timberwolves,Phoenix Suns,119,108,1.15,5.96,False,True,227,11
+2017-11-27,,Chicago Bulls,Miami Heat,93,100,3.34,1.34,False,False,193,-7
+2017-11-27,,Memphis Grizzlies,Brooklyn Nets,88,98,1.48,2.74,False,False,186,-10
+2017-11-28,,Golden State Warriors,Sacramento Kings,106,110,1.11,7.09,False,False,216,-4
+2017-11-28,,Los Angeles Clippers,Los Angeles Lakers,120,115,1.54,2.58,False,True,235,5
+2017-11-28,,San Antonio Spurs,Dallas Mavericks,115,108,1.22,4.51,False,True,223,7
+2017-11-28,,Houston Rockets,Brooklyn Nets,117,103,1.03,15.88,False,True,220,14
+2017-11-28,,Boston Celtics,Detroit Pistons,108,118,1.39,3.14,False,False,226,-10
+2017-11-28,,New York Knicks,Portland Trail Blazers,91,103,2.07,1.8,False,False,194,-12
+2017-11-28,,Philadelphia 76ers,Cleveland Cavaliers,91,113,1.75,2.14,False,False,204,-22
+2017-11-28,,Indiana Pacers,Orlando Magic,121,109,1.54,2.61,False,True,230,12
+2017-11-29,,Cleveland Cavaliers,Miami Heat,108,97,1.56,2.54,False,True,205,11
+2017-11-29,,Minnesota Timberwolves,Washington Wizards,89,92,1.46,2.82,False,False,181,-3
+2017-11-29,,Chicago Bulls,Phoenix Suns,99,104,1.85,2.0,False,False,203,-5
+2017-11-29,,Sacramento Kings,Milwaukee Bucks,87,112,3.15,1.38,False,False,199,-25
+2017-11-29,,Utah Jazz,Denver Nuggets,106,77,1.93,1.9,False,True,183,29
+2017-11-30,,Los Angeles Lakers,Golden State Warriors,123,127,7.43,1.11,True,False,250,-4
+2017-11-30,,Dallas Mavericks,Brooklyn Nets,104,109,1.48,2.73,False,False,213,-5
+2017-11-30,,San Antonio Spurs,Memphis Grizzlies,104,95,1.25,4.15,False,True,199,9
+2017-11-30,,Houston Rockets,Indiana Pacers,118,97,1.14,6.26,False,True,215,21
+2017-11-30,,Detroit Pistons,Phoenix Suns,131,107,1.14,6.27,False,True,238,24
+2017-11-30,,Toronto Raptors,Charlotte Hornets,126,113,1.32,3.52,False,True,239,13
+2017-11-30,,New York Knicks,Miami Heat,115,86,1.83,2.03,False,True,201,29
+2017-11-30,,Philadelphia 76ers,Washington Wizards,118,113,1.35,3.36,False,True,231,5
+2017-11-30,,Orlando Magic,Oklahoma City Thunder,121,108,2.98,1.41,False,True,229,13
+2017-11-30,,New Orleans Pelicans,Minnesota Timberwolves,102,120,1.4,3.1,False,False,222,-18
+2017-12-01,,Boston Celtics,Philadelphia 76ers,108,97,1.28,3.85,False,True,205,11
+2017-12-01,,Atlanta Hawks,Cleveland Cavaliers,114,121,3.61,1.31,False,False,235,-7
+2017-12-01,,Denver Nuggets,Chicago Bulls,111,110,1.16,5.71,False,True,221,1
+2017-12-01,,Portland Trail Blazers,Milwaukee Bucks,91,103,1.57,2.5,False,False,194,-12
+2017-12-01,,Los Angeles Clippers,Utah Jazz,107,126,1.91,1.92,False,False,233,-19
+2017-12-02,,Utah Jazz,New Orleans Pelicans,114,108,2.35,1.63,False,True,222,6
+2017-12-02,,Miami Heat,Charlotte Hornets,105,100,1.8,2.07,False,True,205,5
+2017-12-02,,Chicago Bulls,Sacramento Kings,106,107,1.93,1.9,False,False,213,-1
+2017-12-02,,Washington Wizards,Detroit Pistons,109,91,1.92,1.91,False,True,200,18
+2017-12-02,,Oklahoma City Thunder,Minnesota Timberwolves,111,107,1.45,2.83,False,True,218,4
+2017-12-02,,Toronto Raptors,Indiana Pacers,120,115,1.35,3.37,False,True,235,5
+2017-12-02,,Orlando Magic,Golden State Warriors,112,133,5.61,1.16,False,False,245,-21
+2017-12-02,,Memphis Grizzlies,San Antonio Spurs,79,95,2.36,1.63,False,False,174,-16
+2017-12-03,,Denver Nuggets,Los Angeles Lakers,115,100,1.61,2.46,False,True,215,15
+2017-12-03,,Portland Trail Blazers,New Orleans Pelicans,116,123,1.35,3.42,False,False,239,-7
+2017-12-03,,Milwaukee Bucks,Sacramento Kings,109,104,1.1,8.16,False,True,213,5
+2017-12-03,,Boston Celtics,Phoenix Suns,116,111,1.11,7.26,False,True,227,5
+2017-12-03,,Philadelphia 76ers,Detroit Pistons,108,103,1.56,2.52,False,True,211,5
+2017-12-03,,Brooklyn Nets,Atlanta Hawks,102,114,1.51,2.64,False,False,216,-12
+2017-12-03,,Dallas Mavericks,Los Angeles Clippers,108,82,1.53,2.6,False,True,190,26
+2017-12-03,,Cleveland Cavaliers,Memphis Grizzlies,116,111,1.12,6.91,False,True,227,5
+2017-12-04,,New York Knicks,Orlando Magic,100,105,2.14,1.75,False,False,205,-5
+2017-12-04,,Oklahoma City Thunder,San Antonio Spurs,90,87,1.29,3.75,False,True,177,3
+2017-12-04,,Minnesota Timberwolves,Los Angeles Clippers,112,106,1.13,6.46,False,True,218,6
+2017-12-04,,Miami Heat,Golden State Warriors,95,123,5.09,1.19,False,False,218,-28
+2017-12-04,,Los Angeles Lakers,Houston Rockets,95,118,6.9,1.12,False,False,213,-23
+2017-12-05,,Utah Jazz,Washington Wizards,116,69,1.59,2.46,False,True,185,47
+2017-12-05,,Dallas Mavericks,Denver Nuggets,122,105,1.75,2.14,False,True,227,17
+2017-12-05,,San Antonio Spurs,Detroit Pistons,96,93,1.59,2.44,False,True,189,3
+2017-12-05,,Chicago Bulls,Cleveland Cavaliers,91,113,4.53,1.22,False,False,204,-22
+2017-12-05,,New Orleans Pelicans,Golden State Warriors,115,125,4.3,1.24,False,False,240,-10
+2017-12-05,,Charlotte Hornets,Orlando Magic,104,94,1.33,3.48,False,True,198,10
+2017-12-05,,Atlanta Hawks,Brooklyn Nets,90,110,1.89,1.96,False,False,200,-20
+2017-12-05,,Boston Celtics,Milwaukee Bucks,111,100,1.51,2.66,False,True,211,11
+2017-12-05,,Indiana Pacers,New York Knicks,115,97,1.16,5.64,False,True,212,18
+2017-12-05,,Philadelphia 76ers,Phoenix Suns,101,115,1.18,5.17,False,False,216,-14
+2017-12-05,,Memphis Grizzlies,Minnesota Timberwolves,95,92,2.24,1.68,False,True,187,3
+2017-12-06,,Portland Trail Blazers,Washington Wizards,92,106,1.45,2.9,False,False,198,-14
+2017-12-06,,Toronto Raptors,Phoenix Suns,126,113,1.07,9.69,False,True,239,13
+2017-12-06,,Oklahoma City Thunder,Utah Jazz,100,94,1.28,3.83,False,True,194,6
+2017-12-07,,Cleveland Cavaliers,Sacramento Kings,101,95,1.11,7.5,False,True,196,6
+2017-12-07,,Los Angeles Clippers,Minnesota Timberwolves,107,113,2.75,1.47,False,False,220,-6
+2017-12-07,,Charlotte Hornets,Golden State Warriors,87,101,2.28,1.66,False,False,188,-14
+2017-12-07,,New Orleans Pelicans,Denver Nuggets,123,114,1.45,2.84,False,True,237,9
+2017-12-07,,San Antonio Spurs,Miami Heat,117,105,1.29,3.76,False,True,222,12
+2017-12-07,,Boston Celtics,Dallas Mavericks,97,90,1.31,3.67,False,True,187,7
+2017-12-07,,New York Knicks,Memphis Grizzlies,99,88,1.8,2.07,False,True,187,11
+2017-12-07,,Orlando Magic,Atlanta Hawks,110,106,1.41,3.04,True,True,216,4
+2017-12-07,,Indiana Pacers,Chicago Bulls,98,96,1.19,5.04,False,True,194,2
+2017-12-07,,Milwaukee Bucks,Detroit Pistons,104,100,1.57,2.49,False,True,204,4
+2017-12-08,,Philadelphia 76ers,Los Angeles Lakers,104,107,1.27,3.99,False,False,211,-3
+2017-12-08,,Phoenix Suns,Washington Wizards,99,109,3.17,1.38,False,False,208,-10
+2017-12-08,,Brooklyn Nets,Oklahoma City Thunder,100,95,3.32,1.35,False,True,195,5
+2017-12-08,,Utah Jazz,Houston Rockets,101,112,3.07,1.4,False,False,213,-11
+2017-12-09,,Milwaukee Bucks,Dallas Mavericks,109,102,1.36,3.3,False,True,211,7
+2017-12-09,,San Antonio Spurs,Boston Celtics,105,102,1.74,2.15,False,True,207,3
+2017-12-09,,Memphis Grizzlies,Toronto Raptors,107,116,2.81,1.46,False,False,223,-9
+2017-12-09,,Charlotte Hornets,Chicago Bulls,111,119,1.2,4.85,True,False,230,-8
+2017-12-09,,Detroit Pistons,Golden State Warriors,98,102,2.76,1.47,False,False,200,-4
+2017-12-09,,Orlando Magic,Denver Nuggets,89,103,1.8,2.06,False,False,192,-14
+2017-12-09,,New Orleans Pelicans,Sacramento Kings,109,116,1.21,4.76,True,False,225,-7
+2017-12-09,,Indiana Pacers,Cleveland Cavaliers,106,102,2.42,1.6,False,True,208,4
+2017-12-10,,Los Angeles Clippers,Washington Wizards,113,112,2.07,1.79,False,True,225,1
+2017-12-10,,Memphis Grizzlies,Oklahoma City Thunder,101,102,2.69,1.5,True,False,203,-1
+2017-12-10,,Phoenix Suns,San Antonio Spurs,101,104,2.81,1.46,False,False,205,-3
+2017-12-10,,Milwaukee Bucks,Utah Jazz,117,100,1.82,2.03,False,True,217,17
+2017-12-10,,Portland Trail Blazers,Houston Rockets,117,124,3.88,1.28,False,False,241,-7
+2017-12-10,,Cleveland Cavaliers,Philadelphia 76ers,105,98,1.39,3.15,False,True,203,7
+2017-12-10,,Atlanta Hawks,Orlando Magic,117,110,1.52,2.62,False,True,227,7
+2017-12-10,,Charlotte Hornets,Los Angeles Lakers,99,110,1.62,2.38,False,False,209,-11
+2017-12-10,,Brooklyn Nets,Miami Heat,89,101,2.14,1.75,False,False,190,-12
+2017-12-10,,Chicago Bulls,New York Knicks,104,102,2.38,1.62,False,True,206,2
+2017-12-11,,Sacramento Kings,Toronto Raptors,87,102,4.23,1.24,False,False,189,-15
+2017-12-11,,Detroit Pistons,Boston Celtics,81,91,2.0,1.83,False,False,172,-10
+2017-12-11,,Indiana Pacers,Denver Nuggets,126,116,1.48,2.76,True,True,242,10
+2017-12-11,,New Orleans Pelicans,Philadelphia 76ers,131,124,1.38,3.17,False,True,255,7
+2017-12-11,,Minnesota Timberwolves,Dallas Mavericks,97,92,1.31,3.63,False,True,189,5
+2017-12-11,,New York Knicks,Atlanta Hawks,111,107,1.44,2.89,False,True,218,4
+2017-12-12,,Golden State Warriors,Portland Trail Blazers,111,104,1.25,4.21,False,True,215,7
+2017-12-12,,Chicago Bulls,Boston Celtics,108,85,2.82,1.45,False,True,193,23
+2017-12-12,,Los Angeles Clippers,Toronto Raptors,96,91,2.87,1.43,False,True,187,5
+2017-12-12,,Houston Rockets,New Orleans Pelicans,130,123,1.09,7.82,False,True,253,7
+2017-12-12,,Oklahoma City Thunder,Charlotte Hornets,103,116,1.31,3.64,False,False,219,-13
+2017-12-12,,Memphis Grizzlies,Miami Heat,82,107,1.86,2.0,False,False,189,-25
+2017-12-13,,New York Knicks,Los Angeles Lakers,113,109,1.7,2.21,True,True,222,4
+2017-12-13,,Detroit Pistons,Denver Nuggets,84,103,1.39,3.12,False,False,187,-19
+2017-12-13,,Cleveland Cavaliers,Atlanta Hawks,123,114,1.12,6.94,False,True,237,9
+2017-12-13,,Brooklyn Nets,Washington Wizards,103,98,2.33,1.65,False,True,201,5
+2017-12-13,,Dallas Mavericks,San Antonio Spurs,95,89,3.05,1.4,False,True,184,6
+2017-12-13,,Minnesota Timberwolves,Philadelphia 76ers,112,118,1.53,2.62,True,False,230,-6
+2017-12-13,,Sacramento Kings,Phoenix Suns,99,92,1.55,2.55,False,True,191,7
+2017-12-14,,Houston Rockets,Charlotte Hornets,108,96,1.12,6.83,False,True,204,12
+2017-12-14,,Phoenix Suns,Toronto Raptors,109,115,6.73,1.12,False,False,224,-6
+2017-12-14,,Chicago Bulls,Utah Jazz,103,100,2.84,1.45,False,True,203,3
+2017-12-14,,New Orleans Pelicans,Milwaukee Bucks,115,108,1.75,2.13,False,True,223,7
+2017-12-14,,Indiana Pacers,Oklahoma City Thunder,95,100,1.94,1.9,False,False,195,-5
+2017-12-14,,Miami Heat,Portland Trail Blazers,95,102,1.68,2.26,False,False,197,-7
+2017-12-14,,Washington Wizards,Memphis Grizzlies,93,87,1.3,3.68,False,True,180,6
+2017-12-14,,Boston Celtics,Denver Nuggets,124,118,1.42,2.97,False,True,242,6
+2017-12-14,,Orlando Magic,Los Angeles Clippers,95,106,1.94,1.91,False,False,201,-11
+2017-12-15,,Cleveland Cavaliers,Los Angeles Lakers,121,112,1.19,5.05,False,True,233,9
+2017-12-15,,Golden State Warriors,Dallas Mavericks,112,97,1.19,5.21,False,True,209,15
+2017-12-15,,Minnesota Timberwolves,Sacramento Kings,119,96,1.15,5.8,False,True,215,23
+2017-12-15,,Brooklyn Nets,New York Knicks,104,111,1.84,2.01,False,False,215,-7
+2017-12-15,,Atlanta Hawks,Detroit Pistons,91,105,2.46,1.58,False,False,196,-14
+2017-12-16,,Orlando Magic,Portland Trail Blazers,88,95,2.54,1.56,False,False,183,-7
+2017-12-16,,Philadelphia 76ers,Oklahoma City Thunder,117,119,1.89,1.95,True,False,236,-2
+2017-12-16,,Washington Wizards,Los Angeles Clippers,100,91,1.2,4.94,False,True,191,9
+2017-12-16,,Indiana Pacers,Detroit Pistons,98,104,1.48,2.74,False,False,202,-6
+2017-12-16,,Charlotte Hornets,Miami Heat,98,104,1.49,2.71,False,False,202,-6
+2017-12-16,,Toronto Raptors,Brooklyn Nets,120,87,1.09,8.3,False,True,207,33
+2017-12-16,,Boston Celtics,Utah Jazz,95,107,1.52,2.63,False,False,202,-12
+2017-12-16,,Milwaukee Bucks,Chicago Bulls,109,115,1.26,4.11,False,False,224,-6
+2017-12-16,,Memphis Grizzlies,Atlanta Hawks,96,94,1.39,3.14,False,True,190,2
+2017-12-16,,Denver Nuggets,New Orleans Pelicans,117,111,1.81,2.04,True,True,228,6
+2017-12-16,,Houston Rockets,San Antonio Spurs,124,109,1.28,3.94,False,True,233,15
+2017-12-17,,San Antonio Spurs,Dallas Mavericks,98,96,1.41,3.02,False,True,194,2
+2017-12-17,,Houston Rockets,Milwaukee Bucks,115,111,1.17,5.46,False,True,226,4
+2017-12-17,,Miami Heat,Los Angeles Clippers,90,85,1.41,3.05,False,True,175,5
+2017-12-17,,Memphis Grizzlies,Boston Celtics,93,102,2.89,1.44,False,False,195,-9
+2017-12-17,,Cleveland Cavaliers,Utah Jazz,109,100,1.18,5.18,False,True,209,9
+2017-12-17,,New York Knicks,Oklahoma City Thunder,111,96,2.57,1.55,False,True,207,15
+2017-12-17,,Charlotte Hornets,Portland Trail Blazers,91,93,1.63,2.36,False,False,184,-2
+2017-12-17,,Minnesota Timberwolves,Phoenix Suns,106,108,1.11,7.03,False,False,214,-2
+2017-12-18,,Toronto Raptors,Sacramento Kings,108,93,1.12,6.95,False,True,201,15
+2017-12-18,,Detroit Pistons,Orlando Magic,114,110,1.27,4.03,False,True,224,4
+2017-12-18,,Washington Wizards,Cleveland Cavaliers,99,106,1.77,2.09,False,False,205,-7
+2017-12-18,,Brooklyn Nets,Indiana Pacers,97,109,2.38,1.62,False,False,206,-12
+2017-12-19,,Los Angeles Lakers,Golden State Warriors,114,116,2.78,1.45,True,False,230,-2
+2017-12-19,,Dallas Mavericks,Phoenix Suns,91,97,1.34,3.42,False,False,188,-6
+2017-12-19,,San Antonio Spurs,Los Angeles Clippers,109,91,1.14,6.32,False,True,200,18
+2017-12-19,,Chicago Bulls,Philadelphia 76ers,117,115,2.09,1.78,False,True,232,2
+2017-12-19,,Minnesota Timberwolves,Portland Trail Blazers,108,107,1.55,2.56,False,True,215,1
+2017-12-19,,Houston Rockets,Utah Jazz,120,99,1.11,7.16,False,True,219,21
+2017-12-19,,Atlanta Hawks,Miami Heat,110,104,1.83,2.03,False,True,214,6
+2017-12-19,,Indiana Pacers,Boston Celtics,111,112,2.18,1.72,False,False,223,-1
+2017-12-19,,Charlotte Hornets,New York Knicks,109,91,1.31,3.66,False,True,200,18
+2017-12-19,,Oklahoma City Thunder,Denver Nuggets,95,94,1.5,2.7,False,True,189,1
+2017-12-20,,Philadelphia 76ers,Sacramento Kings,95,101,1.27,3.96,False,False,196,-6
+2017-12-20,,Washington Wizards,New Orleans Pelicans,116,106,1.74,2.16,False,True,222,10
+2017-12-20,,Milwaukee Bucks,Cleveland Cavaliers,119,116,2.01,1.84,False,True,235,3
+2017-12-21,,Portland Trail Blazers,San Antonio Spurs,91,93,1.71,2.2,False,False,184,-2
+2017-12-21,,Denver Nuggets,Minnesota Timberwolves,104,112,1.88,1.96,False,False,216,-8
+2017-12-21,,Golden State Warriors,Memphis Grizzlies,97,84,1.2,4.92,False,True,181,13
+2017-12-21,,Los Angeles Clippers,Phoenix Suns,108,95,1.46,2.82,False,True,203,13
+2017-12-21,,Dallas Mavericks,Detroit Pistons,110,93,1.85,2.0,False,True,203,17
+2017-12-21,,Brooklyn Nets,Sacramento Kings,99,104,1.45,2.84,False,False,203,-5
+2017-12-21,,Houston Rockets,Los Angeles Lakers,116,122,1.06,10.48,False,False,238,-6
+2017-12-21,,Oklahoma City Thunder,Utah Jazz,107,79,1.3,3.73,False,True,186,28
+2017-12-21,,Atlanta Hawks,Indiana Pacers,95,105,2.65,1.51,False,False,200,-10
+2017-12-21,,Boston Celtics,Miami Heat,89,90,1.23,4.51,False,False,179,-1
+2017-12-21,,Charlotte Hornets,Toronto Raptors,111,129,2.1,1.77,False,False,240,-18
+2017-12-21,,Chicago Bulls,Orlando Magic,112,94,1.51,2.66,False,True,206,18
+2017-12-22,,Philadelphia 76ers,Toronto Raptors,109,114,2.38,1.63,False,False,223,-5
+2017-12-22,,Cleveland Cavaliers,Chicago Bulls,115,112,1.15,5.78,False,True,227,3
+2017-12-22,,New York Knicks,Boston Celtics,102,93,2.24,1.68,False,True,195,9
+2017-12-22,,Phoenix Suns,Memphis Grizzlies,97,95,2.33,1.64,False,True,192,2
+2017-12-22,,Utah Jazz,San Antonio Spurs,100,89,2.16,1.76,False,True,189,11
+2017-12-23,,Golden State Warriors,Los Angeles Lakers,113,106,1.13,6.6,False,True,219,7
+2017-12-23,,Portland Trail Blazers,Denver Nuggets,85,102,2.03,1.83,False,False,187,-17
+2017-12-23,,Oklahoma City Thunder,Atlanta Hawks,120,117,1.15,5.99,False,True,237,3
+2017-12-23,,Milwaukee Bucks,Charlotte Hornets,109,104,1.5,2.71,False,True,213,5
+2017-12-23,,Brooklyn Nets,Washington Wizards,119,84,3.0,1.41,False,True,203,35
+2017-12-23,,Houston Rockets,Los Angeles Clippers,118,128,1.11,7.56,False,False,246,-10
+2017-12-23,,Detroit Pistons,New York Knicks,104,101,1.37,3.24,False,True,205,3
+2017-12-23,,Orlando Magic,New Orleans Pelicans,97,111,3.03,1.4,False,False,208,-14
+2017-12-23,,Miami Heat,Dallas Mavericks,113,101,2.04,1.82,False,True,214,12
+2017-12-24,,Memphis Grizzlies,Los Angeles Clippers,115,112,1.76,2.14,False,True,227,3
+2017-12-24,,Sacramento Kings,San Antonio Spurs,99,108,3.08,1.4,False,False,207,-9
+2017-12-24,,Los Angeles Lakers,Portland Trail Blazers,92,95,1.69,2.24,False,False,187,-3
+2017-12-24,,Phoenix Suns,Minnesota Timberwolves,106,115,3.74,1.3,False,False,221,-9
+2017-12-24,,Golden State Warriors,Denver Nuggets,81,96,1.28,3.91,False,False,177,-15
+2017-12-24,,Miami Heat,New Orleans Pelicans,94,109,2.42,1.61,False,False,203,-15
+2017-12-24,,Washington Wizards,Orlando Magic,130,103,1.12,7.08,False,True,233,27
+2017-12-24,,Atlanta Hawks,Dallas Mavericks,112,107,1.98,1.87,False,True,219,5
+2017-12-24,,Boston Celtics,Chicago Bulls,117,92,1.29,3.77,False,True,209,25
+2017-12-24,,Indiana Pacers,Brooklyn Nets,123,119,1.22,4.63,True,True,242,4
+2017-12-24,,Charlotte Hornets,Milwaukee Bucks,111,106,1.55,2.59,False,True,217,5
+2017-12-24,,Toronto Raptors,Philadelphia 76ers,102,86,1.27,3.94,False,True,188,16
+2017-12-24,,Utah Jazz,Oklahoma City Thunder,89,103,1.85,2.0,False,False,192,-14
+2017-12-26,,New York Knicks,Philadelphia 76ers,98,105,1.93,1.96,False,False,203,-7
+2017-12-26,,Golden State Warriors,Cleveland Cavaliers,99,92,1.53,2.59,False,True,191,7
+2017-12-26,,Boston Celtics,Washington Wizards,103,111,1.55,2.55,False,False,214,-8
+2017-12-26,,Oklahoma City Thunder,Houston Rockets,112,107,1.79,2.08,False,True,219,5
+2017-12-26,,Los Angeles Lakers,Minnesota Timberwolves,104,121,3.08,1.4,False,False,225,-17
+2017-12-27,,Denver Nuggets,Utah Jazz,107,83,1.42,2.98,False,True,190,24
+2017-12-27,,Los Angeles Clippers,Sacramento Kings,122,95,1.47,2.79,False,True,217,27
+2017-12-27,,Phoenix Suns,Memphis Grizzlies,99,97,2.02,1.84,False,True,196,2
+2017-12-27,,Miami Heat,Orlando Magic,107,89,1.27,3.96,False,True,196,18
+2017-12-27,,Milwaukee Bucks,Chicago Bulls,106,115,1.34,3.39,False,False,221,-9
+2017-12-27,,Detroit Pistons,Indiana Pacers,107,83,1.8,2.07,False,True,190,24
+2017-12-27,,Dallas Mavericks,Toronto Raptors,98,93,3.02,1.4,False,True,191,5
+2017-12-27,,San Antonio Spurs,Brooklyn Nets,109,97,1.12,6.85,False,True,206,12
+2017-12-28,,Los Angeles Lakers,Memphis Grizzlies,99,109,1.64,2.35,False,False,208,-10
+2017-12-28,,Sacramento Kings,Cleveland Cavaliers,109,95,4.42,1.23,False,True,204,14
+2017-12-28,,New Orleans Pelicans,Brooklyn Nets,128,113,1.22,4.54,False,True,241,15
+2017-12-28,,Chicago Bulls,New York Knicks,92,87,1.81,2.05,False,True,179,5
+2017-12-28,,Golden State Warriors,Utah Jazz,126,101,1.14,6.21,False,True,227,25
+2017-12-28,,Oklahoma City Thunder,Toronto Raptors,124,107,1.62,2.38,False,True,231,17
+2017-12-28,,Atlanta Hawks,Washington Wizards,113,99,2.99,1.41,False,True,212,14
+2017-12-28,,Charlotte Hornets,Boston Celtics,91,102,1.94,1.89,False,False,193,-11
+2017-12-28,,Indiana Pacers,Dallas Mavericks,94,98,1.59,2.46,False,False,192,-4
+2017-12-28,,Minnesota Timberwolves,Denver Nuggets,128,125,1.49,2.71,True,True,253,3
+2017-12-29,,Orlando Magic,Detroit Pistons,102,89,2.45,1.59,False,True,191,13
+2017-12-29,,Milwaukee Bucks,Minnesota Timberwolves,102,96,1.58,2.48,False,True,198,6
+2017-12-29,,Boston Celtics,Houston Rockets,99,98,2.08,1.79,False,True,197,1
+2017-12-29,,San Antonio Spurs,New York Knicks,119,107,1.16,5.69,False,True,226,12
+2017-12-29,,Portland Trail Blazers,Philadelphia 76ers,114,110,2.07,1.79,False,True,224,4
+2017-12-30,,Sacramento Kings,Phoenix Suns,101,111,1.69,2.24,False,False,212,-10
+2017-12-30,,Golden State Warriors,Charlotte Hornets,100,111,1.19,5.02,False,False,211,-11
+2017-12-30,,Los Angeles Lakers,Los Angeles Clippers,106,121,2.26,1.67,False,False,227,-15
+2017-12-30,,Miami Heat,Brooklyn Nets,87,111,1.42,3.0,False,False,198,-24
+2017-12-30,,Washington Wizards,Houston Rockets,121,103,2.13,1.74,False,True,224,18
+2017-12-30,,New Orleans Pelicans,Dallas Mavericks,120,128,1.39,3.15,False,False,248,-8
+2017-12-30,,Oklahoma City Thunder,Milwaukee Bucks,95,97,1.41,3.04,False,False,192,-2
+2017-12-30,,Toronto Raptors,Atlanta Hawks,111,98,1.15,5.84,False,True,209,13
+2017-12-30,,Chicago Bulls,Indiana Pacers,119,107,1.69,2.24,False,True,226,12
+2017-12-31,,New Orleans Pelicans,New York Knicks,103,105,1.44,2.87,False,False,208,-2
+2017-12-31,,Orlando Magic,Miami Heat,111,117,2.01,1.84,False,False,228,-6
+2017-12-31,,Detroit Pistons,San Antonio Spurs,93,79,2.67,1.49,False,True,172,14
+2017-12-31,,Atlanta Hawks,Portland Trail Blazers,104,89,2.2,1.71,False,True,193,15
+2017-12-31,,Utah Jazz,Cleveland Cavaliers,104,101,2.35,1.63,False,True,205,3
+2017-12-31,,Golden State Warriors,Memphis Grizzlies,141,128,1.07,9.8,False,True,269,13
+2017-12-31,,Denver Nuggets,Philadelphia 76ers,102,107,1.35,3.35,False,False,209,-5
+2018-01-01,,Oklahoma City Thunder,Dallas Mavericks,113,116,1.32,3.54,False,False,229,-3
+2018-01-01,,Los Angeles Clippers,Charlotte Hornets,106,98,1.8,2.07,False,True,204,8
+2018-01-01,,Houston Rockets,Los Angeles Lakers,148,142,1.07,9.48,True,True,290,6
+2018-01-01,,Phoenix Suns,Philadelphia 76ers,110,123,2.37,1.62,False,False,233,-13
+2018-01-01,,Boston Celtics,Brooklyn Nets,108,105,1.2,4.82,False,True,213,3
+2018-01-01,,Indiana Pacers,Minnesota Timberwolves,90,107,2.25,1.7,False,False,197,-17
+2018-01-01,,Washington Wizards,Chicago Bulls,114,110,1.3,3.71,False,True,224,4
+2018-01-01,,Sacramento Kings,Memphis Grizzlies,96,114,1.75,2.14,False,False,210,-18
+2018-01-02,,Toronto Raptors,Milwaukee Bucks,131,127,1.42,2.97,True,True,258,4
+2018-01-02,,Brooklyn Nets,Orlando Magic,98,95,1.82,2.05,False,True,193,3
+2018-01-02,,Minnesota Timberwolves,Los Angeles Lakers,114,96,1.19,5.01,False,True,210,18
+2018-01-02,,Chicago Bulls,Portland Trail Blazers,120,124,1.68,2.26,True,False,244,-4
+2018-01-03,,Los Angeles Clippers,Memphis Grizzlies,113,105,1.43,2.94,False,True,218,8
+2018-01-03,,Sacramento Kings,Charlotte Hornets,111,131,2.5,1.57,False,False,242,-20
+2018-01-03,,New York Knicks,San Antonio Spurs,91,100,2.79,1.46,False,False,191,-9
+2018-01-03,,Cleveland Cavaliers,Portland Trail Blazers,127,110,1.22,4.48,False,True,237,17
+2018-01-03,,Phoenix Suns,Atlanta Hawks,104,103,1.88,1.96,False,True,207,1
+2018-01-04,,Dallas Mavericks,Golden State Warriors,122,125,3.86,1.28,False,False,247,-3
+2018-01-04,,Los Angeles Lakers,Oklahoma City Thunder,96,133,2.8,1.47,False,False,229,-37
+2018-01-04,,Denver Nuggets,Phoenix Suns,134,111,1.12,6.78,False,True,245,23
+2018-01-04,,Utah Jazz,New Orleans Pelicans,98,108,1.9,1.95,False,False,206,-10
+2018-01-04,,Chicago Bulls,Toronto Raptors,115,124,2.62,1.53,False,False,239,-9
+2018-01-04,,Boston Celtics,Cleveland Cavaliers,102,88,1.66,2.29,False,True,190,14
+2018-01-04,,Philadelphia 76ers,San Antonio Spurs,112,106,1.59,2.45,False,True,218,6
+2018-01-04,,Brooklyn Nets,Minnesota Timberwolves,98,97,3.17,1.39,False,True,195,1
+2018-01-04,,Miami Heat,Detroit Pistons,111,104,1.54,2.58,False,True,215,7
+2018-01-04,,Orlando Magic,Houston Rockets,98,116,3.47,1.33,False,False,214,-18
+2018-01-04,,Washington Wizards,New York Knicks,121,103,1.22,4.58,False,True,224,18
+2018-01-04,,Milwaukee Bucks,Indiana Pacers,122,101,1.31,3.65,False,True,223,21
+2018-01-05,,Houston Rockets,Golden State Warriors,114,124,2.58,1.54,False,False,238,-10
+2018-01-05,,Los Angeles Clippers,Oklahoma City Thunder,117,127,1.97,1.87,False,False,244,-10
+2018-01-06,,Portland Trail Blazers,Atlanta Hawks,110,89,1.33,3.43,False,True,199,21
+2018-01-06,,Memphis Grizzlies,Washington Wizards,100,102,2.58,1.54,False,False,202,-2
+2018-01-06,,Denver Nuggets,Utah Jazz,99,91,1.37,3.21,False,True,190,8
+2018-01-06,,Dallas Mavericks,Chicago Bulls,124,127,1.57,2.51,False,False,251,-3
+2018-01-06,,Miami Heat,New York Knicks,107,103,1.42,2.97,True,True,210,4
+2018-01-06,,Milwaukee Bucks,Toronto Raptors,110,129,1.88,1.96,False,False,239,-19
+2018-01-06,,Los Angeles Lakers,Charlotte Hornets,94,108,2.15,1.74,False,False,202,-14
+2018-01-06,,Philadelphia 76ers,Detroit Pistons,114,78,1.45,2.85,False,True,192,36
+2018-01-06,,San Antonio Spurs,Phoenix Suns,103,89,1.13,6.44,False,True,192,14
+2018-01-06,,Boston Celtics,Minnesota Timberwolves,91,84,1.67,2.26,False,True,175,7
+2018-01-07,,Washington Wizards,Milwaukee Bucks,103,110,1.64,2.35,False,False,213,-7
+2018-01-07,,Minnesota Timberwolves,New Orleans Pelicans,116,98,1.84,2.01,False,True,214,18
+2018-01-07,,Indiana Pacers,Chicago Bulls,125,86,1.41,2.93,False,True,211,39
+2018-01-07,,Sacramento Kings,Denver Nuggets,106,98,3.79,1.29,False,True,204,8
+2018-01-07,,Detroit Pistons,Houston Rockets,108,101,3.08,1.4,False,True,209,7
+2018-01-07,,Brooklyn Nets,Boston Celtics,85,87,2.35,1.62,False,False,172,-2
+2018-01-07,,Los Angeles Clippers,Golden State Warriors,105,121,4.08,1.26,False,False,226,-16
+2018-01-07,,Orlando Magic,Cleveland Cavaliers,127,131,4.33,1.23,False,False,258,-4
+2018-01-08,,Miami Heat,Utah Jazz,103,102,1.6,2.43,False,True,205,1
+2018-01-08,,Dallas Mavericks,New York Knicks,96,100,1.47,2.78,False,False,196,-4
+2018-01-08,,Phoenix Suns,Oklahoma City Thunder,114,100,3.94,1.27,False,True,214,14
+2018-01-08,,Portland Trail Blazers,San Antonio Spurs,111,110,1.87,1.97,False,True,221,1
+2018-01-08,,Los Angeles Lakers,Atlanta Hawks,132,113,1.64,2.34,False,True,245,19
+2018-01-09,,Los Angeles Clippers,Atlanta Hawks,108,107,1.55,2.55,False,True,215,1
+2018-01-09,,Golden State Warriors,Denver Nuggets,124,114,1.16,5.55,False,True,238,10
+2018-01-09,,Sacramento Kings,San Antonio Spurs,100,107,2.79,1.47,False,False,207,-7
+2018-01-09,,Chicago Bulls,Houston Rockets,107,116,2.96,1.42,False,False,223,-9
+2018-01-09,,Minnesota Timberwolves,Cleveland Cavaliers,127,99,1.95,1.89,False,True,226,28
+2018-01-09,,New Orleans Pelicans,Detroit Pistons,112,109,1.4,3.03,False,True,221,3
+2018-01-09,,Brooklyn Nets,Toronto Raptors,113,114,3.48,1.32,True,False,227,-1
+2018-01-09,,Indiana Pacers,Milwaukee Bucks,109,96,1.81,2.05,False,True,205,13
+2018-01-10,,Toronto Raptors,Miami Heat,89,90,1.57,2.51,False,False,179,-1
+2018-01-10,,Oklahoma City Thunder,Portland Trail Blazers,106,117,1.28,3.87,False,False,223,-11
+2018-01-10,,Dallas Mavericks,Orlando Magic,114,99,1.34,3.37,False,True,213,15
+2018-01-10,,Los Angeles Lakers,Sacramento Kings,99,86,1.28,3.89,False,True,185,13
+2018-01-11,,Golden State Warriors,Los Angeles Clippers,106,125,1.12,7.02,False,False,231,-19
+2018-01-11,,Denver Nuggets,Atlanta Hawks,97,110,1.22,4.55,False,False,207,-13
+2018-01-11,,Houston Rockets,Portland Trail Blazers,121,112,1.34,3.41,False,True,233,9
+2018-01-11,,Memphis Grizzlies,New Orleans Pelicans,105,102,1.9,1.94,False,True,207,3
+2018-01-11,,Milwaukee Bucks,Orlando Magic,110,103,1.16,5.53,False,True,213,7
+2018-01-11,,Charlotte Hornets,Dallas Mavericks,111,115,1.36,3.23,False,False,226,-4
+2018-01-11,,Brooklyn Nets,Detroit Pistons,80,114,2.1,1.77,False,False,194,-34
+2018-01-11,,New York Knicks,Chicago Bulls,119,122,1.49,2.7,True,False,241,-3
+2018-01-11,,Indiana Pacers,Miami Heat,106,114,1.51,2.63,False,False,220,-8
+2018-01-11,,Washington Wizards,Utah Jazz,104,107,1.28,3.85,False,False,211,-3
+2018-01-11,,Minnesota Timberwolves,Oklahoma City Thunder,104,88,1.52,2.63,False,True,192,16
+2018-01-12,,Philadelphia 76ers,Boston Celtics,103,114,2.1,1.76,False,False,217,-11
+2018-01-12,,Toronto Raptors,Cleveland Cavaliers,133,99,2.19,1.7,False,True,232,34
+2018-01-12,,Sacramento Kings,Los Angeles Clippers,115,121,2.42,1.59,False,False,236,-6
+2018-01-12,,Los Angeles Lakers,San Antonio Spurs,93,81,2.16,1.73,False,True,174,12
+2018-01-13,,Phoenix Suns,Houston Rockets,95,112,3.35,1.35,False,False,207,-17
+2018-01-13,,Denver Nuggets,Memphis Grizzlies,87,78,1.38,3.18,False,True,165,9
+2018-01-13,,Milwaukee Bucks,Golden State Warriors,94,108,2.62,1.52,False,False,202,-14
+2018-01-13,,Minnesota Timberwolves,New York Knicks,118,108,1.24,4.35,False,True,226,10
+2018-01-13,,Indiana Pacers,Cleveland Cavaliers,97,95,2.04,1.8,False,True,192,2
+2018-01-13,,Atlanta Hawks,Brooklyn Nets,105,110,1.66,2.3,False,False,215,-5
+2018-01-13,,Charlotte Hornets,Utah Jazz,99,88,1.55,2.56,False,True,187,11
+2018-01-13,,Washington Wizards,Orlando Magic,125,119,1.15,5.97,False,True,244,6
+2018-01-13,,New Orleans Pelicans,Portland Trail Blazers,119,113,1.6,2.43,False,True,232,6
+2018-01-14,,Dallas Mavericks,Los Angeles Lakers,101,107,1.55,2.55,True,False,208,-6
+2018-01-14,,Los Angeles Clippers,Sacramento Kings,126,105,1.35,3.35,False,True,231,21
+2018-01-14,,Washington Wizards,Brooklyn Nets,119,113,1.21,4.76,True,True,232,6
+2018-01-14,,San Antonio Spurs,Denver Nuggets,112,80,1.31,3.61,False,True,192,32
+2018-01-14,,Charlotte Hornets,Oklahoma City Thunder,91,101,2.11,1.76,False,False,192,-10
+2018-01-14,,Toronto Raptors,Golden State Warriors,125,127,2.92,1.43,False,False,252,-2
+2018-01-14,,Chicago Bulls,Detroit Pistons,107,105,1.97,1.88,False,True,212,2
+2018-01-15,,Miami Heat,Milwaukee Bucks,97,79,1.82,2.04,False,True,176,18
+2018-01-15,,New York Knicks,New Orleans Pelicans,118,123,2.15,1.74,True,False,241,-5
+2018-01-15,,Phoenix Suns,Indiana Pacers,97,120,2.37,1.63,False,False,217,-23
+2018-01-15,,Minnesota Timberwolves,Portland Trail Blazers,120,103,1.41,3.06,False,True,223,17
+2018-01-16,,Los Angeles Clippers,Houston Rockets,113,102,2.66,1.5,False,True,215,11
+2018-01-16,,Utah Jazz,Indiana Pacers,94,109,1.51,2.65,False,False,203,-15
+2018-01-16,,Cleveland Cavaliers,Golden State Warriors,108,118,2.96,1.41,False,False,226,-10
+2018-01-16,,Memphis Grizzlies,Los Angeles Lakers,123,114,1.6,2.4,False,True,237,9
+2018-01-16,,Oklahoma City Thunder,Sacramento Kings,95,88,1.11,7.32,False,True,183,7
+2018-01-16,,Atlanta Hawks,San Antonio Spurs,102,99,2.84,1.44,False,True,201,3
+2018-01-16,,Brooklyn Nets,New York Knicks,104,119,1.63,2.36,False,False,223,-15
+2018-01-16,,Washington Wizards,Milwaukee Bucks,95,104,1.47,2.75,False,False,199,-9
+2018-01-16,,Philadelphia 76ers,Toronto Raptors,117,111,2.08,1.78,False,True,228,6
+2018-01-16,,Detroit Pistons,Charlotte Hornets,107,118,1.68,2.21,False,False,225,-11
+2018-01-16,,Chicago Bulls,Miami Heat,119,111,1.83,2.02,False,True,230,8
+2018-01-17,,Orlando Magic,Minnesota Timberwolves,108,102,4.03,1.26,False,True,210,6
+2018-01-17,,Boston Celtics,New Orleans Pelicans,113,116,1.44,2.86,True,False,229,-3
+2018-01-17,,Denver Nuggets,Dallas Mavericks,105,102,1.4,3.03,False,True,207,3
+2018-01-17,,Portland Trail Blazers,Phoenix Suns,118,111,1.16,5.68,False,True,229,7
+2018-01-18,,Chicago Bulls,Golden State Warriors,112,119,4.08,1.25,False,False,231,-7
+2018-01-18,,Los Angeles Clippers,Denver Nuggets,109,104,1.56,2.5,False,True,213,5
+2018-01-18,,Sacramento Kings,Utah Jazz,105,120,2.49,1.57,False,False,225,-15
+2018-01-18,,Oklahoma City Thunder,Los Angeles Lakers,114,90,1.19,4.84,False,True,204,24
+2018-01-18,,Brooklyn Nets,San Antonio Spurs,95,100,2.62,1.51,False,False,195,-5
+2018-01-18,,Milwaukee Bucks,Miami Heat,101,106,1.54,2.55,False,False,207,-5
+2018-01-18,,Atlanta Hawks,New Orleans Pelicans,94,93,2.18,1.72,False,True,187,1
+2018-01-18,,Charlotte Hornets,Washington Wizards,133,109,1.78,2.09,False,True,242,24
+2018-01-18,,Toronto Raptors,Detroit Pistons,96,91,1.25,4.08,False,True,187,5
+2018-01-18,,Memphis Grizzlies,New York Knicks,105,99,2.15,1.74,False,True,204,6
+2018-01-19,,Cleveland Cavaliers,Orlando Magic,104,103,1.12,6.84,False,True,207,1
+2018-01-19,,Boston Celtics,Philadelphia 76ers,80,89,1.66,2.28,False,False,169,-9
+2018-01-19,,Houston Rockets,Minnesota Timberwolves,116,98,1.48,2.71,False,True,214,18
+2018-01-19,,Portland Trail Blazers,Indiana Pacers,100,86,1.54,2.56,False,True,186,14
+2018-01-20,,Los Angeles Lakers,Indiana Pacers,99,86,2.09,1.77,False,True,185,13
+2018-01-20,,Utah Jazz,New York Knicks,115,117,1.45,2.83,False,False,232,-2
+2018-01-20,,Denver Nuggets,Phoenix Suns,100,108,1.22,4.56,False,False,208,-8
+2018-01-20,,Brooklyn Nets,Miami Heat,101,95,2.31,1.64,False,True,196,6
+2018-01-20,,Memphis Grizzlies,Sacramento Kings,106,88,1.4,3.04,False,True,194,18
+2018-01-20,,Toronto Raptors,San Antonio Spurs,86,83,1.41,3.01,False,True,169,3
+2018-01-20,,Detroit Pistons,Washington Wizards,112,122,1.91,1.93,False,False,234,-10
+2018-01-21,,Minnesota Timberwolves,Toronto Raptors,115,109,2.03,1.82,False,True,224,6
+2018-01-21,,Portland Trail Blazers,Dallas Mavericks,117,108,1.46,2.76,False,True,225,9
+2018-01-21,,Utah Jazz,Los Angeles Clippers,125,113,1.72,2.18,False,True,238,12
+2018-01-21,,Houston Rockets,Golden State Warriors,116,108,2.21,1.69,False,True,224,8
+2018-01-21,,Atlanta Hawks,Chicago Bulls,97,113,1.77,2.1,False,False,210,-16
+2018-01-21,,Charlotte Hornets,Miami Heat,105,106,1.35,3.3,False,False,211,-1
+2018-01-21,,Cleveland Cavaliers,Oklahoma City Thunder,124,148,1.68,2.25,False,False,272,-24
+2018-01-21,,Philadelphia 76ers,Milwaukee Bucks,116,94,1.32,3.52,False,True,210,22
+2018-01-21,,New Orleans Pelicans,Memphis Grizzlies,111,104,1.24,4.31,False,True,215,7
+2018-01-22,,Boston Celtics,Orlando Magic,95,103,1.15,5.66,False,False,198,-8
+2018-01-22,,Los Angeles Lakers,New York Knicks,127,107,2.1,1.78,False,True,234,20
+2018-01-22,,Detroit Pistons,Brooklyn Nets,100,101,1.41,3.0,False,False,201,-1
+2018-01-22,,San Antonio Spurs,Indiana Pacers,86,94,1.42,2.94,False,False,180,-8
+2018-01-23,,Charlotte Hornets,Sacramento Kings,112,107,1.16,5.57,False,True,219,5
+2018-01-23,,Milwaukee Bucks,Phoenix Suns,109,105,1.47,2.77,False,True,214,4
+2018-01-23,,Memphis Grizzlies,Philadelphia 76ers,105,101,2.3,1.65,False,True,206,4
+2018-01-23,,Houston Rockets,Miami Heat,99,90,1.14,6.0,False,True,189,9
+2018-01-23,,New Orleans Pelicans,Chicago Bulls,132,128,1.37,3.2,True,True,260,4
+2018-01-23,,Dallas Mavericks,Washington Wizards,98,75,2.08,1.78,False,True,173,23
+2018-01-23,,Denver Nuggets,Portland Trail Blazers,104,101,1.65,2.31,False,True,205,3
+2018-01-23,,Los Angeles Clippers,Minnesota Timberwolves,118,126,1.76,2.1,False,False,244,-8
+2018-01-23,,Atlanta Hawks,Utah Jazz,104,90,2.26,1.67,False,True,194,14
+2018-01-24,,Los Angeles Lakers,Boston Celtics,108,107,2.7,1.48,False,True,215,1
+2018-01-24,,Golden State Warriors,New York Knicks,123,112,1.04,12.18,False,True,235,11
+2018-01-24,,San Antonio Spurs,Cleveland Cavaliers,114,102,2.17,1.71,False,True,216,12
+2018-01-24,,Orlando Magic,Sacramento Kings,99,105,1.33,3.5,False,False,204,-6
+2018-01-24,,Oklahoma City Thunder,Brooklyn Nets,109,108,1.18,5.1,False,True,217,1
+2018-01-25,,Los Angeles Clippers,Boston Celtics,102,113,1.61,2.38,False,False,215,-11
+2018-01-25,,Dallas Mavericks,Houston Rockets,97,104,3.29,1.35,False,False,201,-7
+2018-01-25,,Memphis Grizzlies,San Antonio Spurs,85,108,2.0,1.84,False,False,193,-23
+2018-01-25,,Portland Trail Blazers,Minnesota Timberwolves,123,114,1.63,2.35,False,True,237,9
+2018-01-25,,Charlotte Hornets,New Orleans Pelicans,96,101,1.76,2.11,False,False,197,-5
+2018-01-25,,Philadelphia 76ers,Chicago Bulls,115,101,1.43,2.93,False,True,216,14
+2018-01-25,,Detroit Pistons,Utah Jazz,95,98,1.73,2.16,True,False,193,-3
+2018-01-25,,Indiana Pacers,Phoenix Suns,116,101,1.36,3.26,False,True,217,15
+2018-01-25,,Atlanta Hawks,Toronto Raptors,93,108,3.25,1.36,False,False,201,-15
+2018-01-26,,Miami Heat,Sacramento Kings,88,89,1.21,4.66,False,False,177,-1
+2018-01-26,,Oklahoma City Thunder,Washington Wizards,121,112,1.47,2.75,False,True,233,9
+2018-01-26,,Denver Nuggets,New York Knicks,130,118,1.36,3.27,False,True,248,12
+2018-01-26,,Golden State Warriors,Minnesota Timberwolves,126,113,1.11,7.35,False,True,239,13
+2018-01-27,,San Antonio Spurs,Philadelphia 76ers,78,97,1.6,2.41,False,False,175,-19
+2018-01-27,,Phoenix Suns,New York Knicks,85,107,1.95,1.88,False,False,192,-22
+2018-01-27,,Dallas Mavericks,Portland Trail Blazers,93,107,1.99,1.85,False,False,200,-14
+2018-01-27,,Milwaukee Bucks,Brooklyn Nets,116,91,1.39,3.08,False,True,207,25
+2018-01-27,,Cleveland Cavaliers,Indiana Pacers,115,108,1.36,3.23,False,True,223,7
+2018-01-27,,New Orleans Pelicans,Houston Rockets,115,113,2.58,1.53,False,True,228,2
+2018-01-27,,Memphis Grizzlies,Los Angeles Clippers,100,109,2.55,1.54,False,False,209,-9
+2018-01-27,,Charlotte Hornets,Atlanta Hawks,121,110,1.34,3.33,False,True,231,11
+2018-01-27,,Toronto Raptors,Utah Jazz,93,97,1.26,4.06,False,False,190,-4
+2018-01-27,,Chicago Bulls,Los Angeles Lakers,103,108,1.57,2.47,False,False,211,-5
+2018-01-28,,Denver Nuggets,Dallas Mavericks,91,89,1.28,3.83,False,True,180,2
+2018-01-28,,Golden State Warriors,Boston Celtics,109,105,1.13,6.32,False,True,214,4
+2018-01-28,,Minnesota Timberwolves,Brooklyn Nets,111,97,1.13,6.31,False,True,208,14
+2018-01-28,,Miami Heat,Charlotte Hornets,95,91,1.58,2.46,False,True,186,4
+2018-01-28,,Indiana Pacers,Orlando Magic,114,112,1.38,3.17,False,True,226,2
+2018-01-28,,Detroit Pistons,Oklahoma City Thunder,108,121,2.38,1.6,False,False,229,-13
+2018-01-28,,Atlanta Hawks,Washington Wizards,104,129,2.39,1.61,False,False,233,-25
+2018-01-29,,Houston Rockets,Phoenix Suns,113,102,1.06,10.56,False,True,215,11
+2018-01-29,,Chicago Bulls,Milwaukee Bucks,96,110,2.16,1.73,False,False,206,-14
+2018-01-29,,New Orleans Pelicans,Los Angeles Clippers,103,112,1.75,2.13,False,False,215,-9
+2018-01-29,,Oklahoma City Thunder,Philadelphia 76ers,122,112,1.62,2.36,False,True,234,10
+2018-01-29,,Toronto Raptors,Los Angeles Lakers,123,111,1.16,5.56,False,True,234,12
+2018-01-29,,Cleveland Cavaliers,Detroit Pistons,121,104,1.29,3.77,False,True,225,17
+2018-01-29,,San Antonio Spurs,Sacramento Kings,113,98,1.12,6.69,False,True,211,15
+2018-01-30,,Denver Nuggets,Boston Celtics,110,111,1.8,2.06,False,False,221,-1
+2018-01-30,,Dallas Mavericks,Miami Heat,88,95,2.14,1.74,False,False,183,-7
+2018-01-30,,Indiana Pacers,Charlotte Hornets,105,96,1.78,2.09,False,True,201,9
+2018-01-30,,Milwaukee Bucks,Philadelphia 76ers,107,95,1.38,3.18,False,True,202,12
+2018-01-30,,Atlanta Hawks,Minnesota Timberwolves,105,100,3.21,1.36,False,True,205,5
+2018-01-30,,Memphis Grizzlies,Phoenix Suns,120,109,1.26,4.08,False,True,229,11
+2018-01-31,,Washington Wizards,Oklahoma City Thunder,102,96,2.37,1.61,False,True,198,6
+2018-01-31,,Toronto Raptors,Minnesota Timberwolves,109,104,1.38,3.15,False,True,213,5
+2018-01-31,,New York Knicks,Brooklyn Nets,111,95,1.44,2.89,False,True,206,16
+2018-01-31,,New Orleans Pelicans,Sacramento Kings,103,114,1.24,4.29,False,False,217,-11
+2018-01-31,,Houston Rockets,Orlando Magic,114,107,1.09,7.94,False,True,221,7
+2018-01-31,,Detroit Pistons,Cleveland Cavaliers,125,114,3.24,1.36,False,True,239,11
+2018-01-31,,San Antonio Spurs,Denver Nuggets,106,104,1.35,3.33,False,True,210,2
+2018-01-31,,Utah Jazz,Golden State Warriors,129,99,3.86,1.27,False,True,228,30
+2018-01-31,,Los Angeles Clippers,Portland Trail Blazers,96,104,2.22,1.7,False,False,200,-8
+2018-02-01,,Phoenix Suns,Dallas Mavericks,102,88,2.22,1.69,False,True,190,14
+2018-02-01,,Boston Celtics,New York Knicks,103,73,1.43,2.9,False,True,176,30
+2018-02-01,,Atlanta Hawks,Charlotte Hornets,110,123,2.24,1.68,False,False,233,-13
+2018-02-01,,Portland Trail Blazers,Chicago Bulls,124,108,1.27,3.96,False,True,232,16
+2018-02-01,,Cleveland Cavaliers,Miami Heat,91,89,1.71,2.19,False,True,180,2
+2018-02-01,,Indiana Pacers,Memphis Grizzlies,105,101,1.27,3.93,False,True,206,4
+2018-02-01,,Orlando Magic,Los Angeles Lakers,127,105,2.28,1.66,False,True,232,22
+2018-02-01,,Brooklyn Nets,Philadelphia 76ers,116,108,3.54,1.31,False,True,224,8
+2018-02-02,,Washington Wizards,Toronto Raptors,122,119,2.45,1.58,False,True,241,3
+2018-02-02,,Detroit Pistons,Memphis Grizzlies,104,102,1.25,4.12,False,True,206,2
+2018-02-02,,Minnesota Timberwolves,Milwaukee Bucks,108,89,1.4,3.04,False,True,197,19
+2018-02-02,,San Antonio Spurs,Houston Rockets,91,102,2.16,1.73,False,False,193,-11
+2018-02-02,,Denver Nuggets,Oklahoma City Thunder,127,124,2.04,1.81,False,True,251,3
+2018-02-03,,Sacramento Kings,Golden State Warriors,104,119,8.88,1.08,False,False,223,-15
+2018-02-03,,Oklahoma City Thunder,New Orleans Pelicans,100,114,1.39,3.06,False,False,214,-14
+2018-02-03,,Phoenix Suns,Utah Jazz,97,129,3.01,1.41,False,False,226,-32
+2018-02-03,,Philadelphia 76ers,Miami Heat,103,97,1.58,2.46,False,True,200,6
+2018-02-03,,Brooklyn Nets,Los Angeles Lakers,99,102,1.87,1.97,False,False,201,-3
+2018-02-03,,Boston Celtics,Atlanta Hawks,119,110,1.35,3.32,False,True,229,9
+2018-02-03,,Toronto Raptors,Portland Trail Blazers,130,105,1.51,2.62,False,True,235,25
+2018-02-03,,Charlotte Hornets,Indiana Pacers,133,126,1.62,2.36,False,True,259,7
+2018-02-03,,Milwaukee Bucks,New York Knicks,92,90,1.52,2.61,False,True,182,2
+2018-02-04,,Sacramento Kings,Dallas Mavericks,99,106,2.57,1.54,False,False,205,-7
+2018-02-04,,Denver Nuggets,Golden State Warriors,115,108,2.71,1.48,False,True,223,7
+2018-02-04,,Minnesota Timberwolves,New Orleans Pelicans,118,107,1.27,3.93,False,True,225,11
+2018-02-04,,San Antonio Spurs,Utah Jazz,111,120,1.36,3.24,False,False,231,-9
+2018-02-04,,Detroit Pistons,Miami Heat,111,107,1.55,2.55,False,True,218,4
+2018-02-04,,Indiana Pacers,Philadelphia 76ers,100,92,1.87,1.96,False,True,192,8
+2018-02-04,,Orlando Magic,Washington Wizards,98,115,2.54,1.54,False,False,213,-17
+2018-02-04,,Los Angeles Clippers,Chicago Bulls,113,103,1.26,3.97,False,True,216,10
+2018-02-04,,Cleveland Cavaliers,Houston Rockets,88,120,2.39,1.61,False,False,208,-32
+2018-02-05,,Toronto Raptors,Memphis Grizzlies,101,86,1.14,6.17,False,True,187,15
+2018-02-05,,Brooklyn Nets,Milwaukee Bucks,94,109,2.61,1.52,False,False,203,-15
+2018-02-05,,Boston Celtics,Portland Trail Blazers,97,96,2.06,1.8,False,True,193,1
+2018-02-05,,New York Knicks,Atlanta Hawks,96,99,1.44,2.88,False,False,195,-3
+2018-02-05,,Oklahoma City Thunder,Los Angeles Lakers,104,108,1.2,4.78,False,False,212,-4
+2018-02-05,,Phoenix Suns,Charlotte Hornets,110,115,3.14,1.38,False,False,225,-5
+2018-02-06,,Los Angeles Clippers,Dallas Mavericks,104,101,1.38,3.14,False,True,205,3
+2018-02-06,,Sacramento Kings,Chicago Bulls,104,98,1.76,2.11,False,True,202,6
+2018-02-06,,Denver Nuggets,Charlotte Hornets,121,104,1.55,2.52,False,True,225,17
+2018-02-06,,Indiana Pacers,Washington Wizards,102,111,2.27,1.67,False,False,213,-9
+2018-02-06,,Miami Heat,Orlando Magic,109,111,1.25,4.16,False,False,220,-2
+2018-02-06,,Detroit Pistons,Portland Trail Blazers,111,91,1.73,2.16,False,True,202,20
+2018-02-06,,New Orleans Pelicans,Utah Jazz,109,133,1.91,1.93,False,False,242,-24
+2018-02-07,,Los Angeles Lakers,Phoenix Suns,112,93,1.28,3.86,False,True,205,19
+2018-02-07,,Atlanta Hawks,Memphis Grizzlies,108,82,1.66,2.29,False,True,190,26
+2018-02-07,,Golden State Warriors,Oklahoma City Thunder,105,125,1.18,5.15,False,False,230,-20
+2018-02-07,,Brooklyn Nets,Houston Rockets,113,123,6.02,1.14,False,False,236,-10
+2018-02-07,,Toronto Raptors,Boston Celtics,111,91,1.47,2.76,False,True,202,20
+2018-02-07,,Orlando Magic,Cleveland Cavaliers,116,98,3.39,1.34,False,True,214,18
+2018-02-07,,Philadelphia 76ers,Washington Wizards,115,102,1.38,3.16,False,True,217,13
+2018-02-07,,New York Knicks,Milwaukee Bucks,89,103,1.83,1.99,False,False,192,-14
+2018-02-08,,Detroit Pistons,Brooklyn Nets,115,106,1.2,4.75,False,True,221,9
+2018-02-08,,Miami Heat,Houston Rockets,101,109,2.62,1.51,False,False,210,-8
+2018-02-08,,Memphis Grizzlies,Utah Jazz,88,92,3.21,1.37,False,False,180,-4
+2018-02-08,,Cleveland Cavaliers,Minnesota Timberwolves,140,138,2.33,1.63,True,True,278,2
+2018-02-08,,Phoenix Suns,San Antonio Spurs,81,129,5.54,1.16,False,False,210,-48
+2018-02-09,,Orlando Magic,Atlanta Hawks,100,98,2.07,1.78,False,True,198,2
+2018-02-09,,Toronto Raptors,New York Knicks,113,88,1.07,9.31,False,True,201,25
+2018-02-09,,Washington Wizards,Boston Celtics,104,110,2.1,1.77,True,False,214,-6
+2018-02-09,,Portland Trail Blazers,Charlotte Hornets,109,103,1.65,2.29,True,True,212,6
+2018-02-09,,Golden State Warriors,Dallas Mavericks,121,103,1.07,9.56,False,True,224,18
+2018-02-09,,Los Angeles Lakers,Oklahoma City Thunder,106,81,1.84,2.0,False,True,187,25
+2018-02-10,,Sacramento Kings,Portland Trail Blazers,100,118,2.66,1.49,False,False,218,-18
+2018-02-10,,Chicago Bulls,Minnesota Timberwolves,114,113,3.47,1.33,False,True,227,1
+2018-02-10,,Utah Jazz,Charlotte Hornets,106,94,1.41,3.02,False,True,200,12
+2018-02-10,,Houston Rockets,Denver Nuggets,130,104,1.24,4.16,False,True,234,26
+2018-02-10,,Philadelphia 76ers,New Orleans Pelicans,100,82,1.41,3.0,False,True,182,18
+2018-02-10,,Atlanta Hawks,Cleveland Cavaliers,107,123,2.1,1.77,False,False,230,-16
+2018-02-10,,Boston Celtics,Indiana Pacers,91,97,1.58,2.46,False,False,188,-6
+2018-02-10,,Detroit Pistons,Los Angeles Clippers,95,108,1.64,2.32,False,False,203,-13
+2018-02-10,,Miami Heat,Milwaukee Bucks,91,85,1.83,2.02,False,True,176,6
+2018-02-11,,Dallas Mavericks,Los Angeles Lakers,130,123,1.66,2.28,False,True,253,7
+2018-02-11,,Phoenix Suns,Denver Nuggets,113,123,3.54,1.32,False,False,236,-10
+2018-02-11,,Golden State Warriors,San Antonio Spurs,122,105,1.15,5.93,False,True,227,17
+2018-02-11,,Orlando Magic,Milwaukee Bucks,104,111,2.71,1.48,False,False,215,-7
+2018-02-11,,Philadelphia 76ers,Los Angeles Clippers,112,98,1.51,2.64,False,True,210,14
+2018-02-11,,Brooklyn Nets,New Orleans Pelicans,128,138,2.15,1.73,True,False,266,-10
+2018-02-11,,Chicago Bulls,Washington Wizards,90,101,2.82,1.46,False,False,191,-11
+2018-02-12,,Houston Rockets,Dallas Mavericks,104,97,1.05,11.47,False,True,201,7
+2018-02-12,,Oklahoma City Thunder,Memphis Grizzlies,110,92,1.54,2.55,False,True,202,18
+2018-02-12,,Minnesota Timberwolves,Sacramento Kings,111,106,1.09,8.15,False,True,217,5
+2018-02-12,,Portland Trail Blazers,Utah Jazz,96,115,1.6,2.39,False,False,211,-19
+2018-02-12,,Atlanta Hawks,Detroit Pistons,118,115,2.42,1.59,False,True,233,3
+2018-02-12,,Boston Celtics,Cleveland Cavaliers,99,121,1.52,2.61,False,False,220,-22
+2018-02-12,,Charlotte Hornets,Toronto Raptors,103,123,2.36,1.62,False,False,226,-20
+2018-02-12,,Indiana Pacers,New York Knicks,121,113,1.29,3.74,False,True,234,8
+2018-02-13,,Philadelphia 76ers,New York Knicks,108,92,1.14,6.07,False,True,200,16
+2018-02-13,,Detroit Pistons,New Orleans Pelicans,103,118,1.65,2.3,False,False,221,-15
+2018-02-13,,Brooklyn Nets,Los Angeles Clippers,101,114,2.63,1.51,False,False,215,-13
+2018-02-13,,Chicago Bulls,Orlando Magic,105,101,1.53,2.6,False,True,206,4
+2018-02-13,,Utah Jazz,San Antonio Spurs,101,99,1.57,2.49,False,True,200,2
+2018-02-13,,Golden State Warriors,Phoenix Suns,129,83,1.05,11.89,False,True,212,46
+2018-02-14,,Denver Nuggets,San Antonio Spurs,117,109,1.38,3.17,False,True,226,8
+2018-02-14,,Dallas Mavericks,Sacramento Kings,109,114,1.35,3.29,False,False,223,-5
+2018-02-14,,Toronto Raptors,Miami Heat,115,112,1.26,3.95,False,True,227,3
+2018-02-14,,Oklahoma City Thunder,Cleveland Cavaliers,112,120,1.65,2.31,False,False,232,-8
+2018-02-14,,Minnesota Timberwolves,Houston Rockets,108,126,2.39,1.6,False,False,234,-18
+2018-02-14,,Milwaukee Bucks,Atlanta Hawks,97,92,1.31,3.56,False,True,189,5
+2018-02-15,,Portland Trail Blazers,Golden State Warriors,123,117,3.15,1.37,False,True,240,6
+2018-02-15,,Utah Jazz,Phoenix Suns,107,97,1.14,6.09,False,True,204,10
+2018-02-15,,Boston Celtics,Los Angeles Clippers,119,129,1.49,2.7,False,False,248,-10
+2018-02-15,,Houston Rockets,Sacramento Kings,100,91,1.06,11.27,False,True,191,9
+2018-02-15,,New Orleans Pelicans,Los Angeles Lakers,139,117,1.46,2.8,False,True,256,22
+2018-02-15,,Chicago Bulls,Toronto Raptors,98,122,3.32,1.35,False,False,220,-24
+2018-02-15,,Brooklyn Nets,Indiana Pacers,103,108,2.43,1.59,False,False,211,-5
+2018-02-15,,New York Knicks,Washington Wizards,113,118,2.58,1.53,False,False,231,-5
+2018-02-15,,Detroit Pistons,Atlanta Hawks,104,98,1.17,5.32,False,True,202,6
+2018-02-15,,Orlando Magic,Charlotte Hornets,102,104,2.99,1.41,False,False,206,-2
+2018-02-15,,Philadelphia 76ers,Miami Heat,104,102,1.52,2.62,False,True,206,2
+2018-02-15,,Memphis Grizzlies,Oklahoma City Thunder,114,121,2.53,1.55,False,False,235,-7
+2018-02-16,,Milwaukee Bucks,Denver Nuggets,123,134,1.73,2.15,False,False,257,-11
+2018-02-16,,Minnesota Timberwolves,Los Angeles Lakers,119,111,1.19,5.03,False,True,230,8
+2018-02-17,All Stars,Team USA,Team World,124,155,1.8,2.02,False,False,279,-31
+2018-02-19,All Stars,Team Stephen,Team LeBron,145,148,2.1,1.73,False,False,293,-3
+2018-02-23,,Golden State Warriors,Los Angeles Clippers,134,127,1.14,6.27,False,True,261,7
+2018-02-23,,Sacramento Kings,Oklahoma City Thunder,107,110,3.96,1.27,False,False,217,-3
+2018-02-23,,Charlotte Hornets,Brooklyn Nets,111,96,1.27,3.92,False,True,207,15
+2018-02-23,,Cleveland Cavaliers,Washington Wizards,103,110,1.37,3.17,False,False,213,-7
+2018-02-23,,Orlando Magic,New York Knicks,113,120,1.62,2.36,False,False,233,-7
+2018-02-23,,Chicago Bulls,Philadelphia 76ers,115,116,3.37,1.34,False,False,231,-1
+2018-02-24,,Los Angeles Lakers,Dallas Mavericks,124,102,1.58,2.45,False,True,226,22
+2018-02-24,,Denver Nuggets,San Antonio Spurs,122,119,1.61,2.4,False,True,241,3
+2018-02-24,,Phoenix Suns,Los Angeles Clippers,117,128,2.87,1.44,False,False,245,-11
+2018-02-24,,Utah Jazz,Portland Trail Blazers,81,100,1.53,2.58,False,False,181,-19
+2018-02-24,,Memphis Grizzlies,Cleveland Cavaliers,89,112,2.75,1.47,False,False,201,-23
+2018-02-24,,New Orleans Pelicans,Miami Heat,124,123,1.77,2.1,True,True,247,1
+2018-02-24,,Toronto Raptors,Milwaukee Bucks,119,122,1.32,3.56,True,False,241,-3
+2018-02-24,,Indiana Pacers,Atlanta Hawks,116,93,1.31,3.58,False,True,209,23
+2018-02-24,,Detroit Pistons,Boston Celtics,98,110,2.1,1.77,False,False,208,-12
+2018-02-24,,Washington Wizards,Charlotte Hornets,105,122,1.61,2.38,False,False,227,-17
+2018-02-24,,Houston Rockets,Minnesota Timberwolves,120,102,1.29,3.76,False,True,222,18
+2018-02-25,,Sacramento Kings,Los Angeles Lakers,108,113,2.05,1.8,False,False,221,-5
+2018-02-25,,Minnesota Timberwolves,Chicago Bulls,122,104,1.34,3.38,False,True,226,18
+2018-02-25,,Phoenix Suns,Portland Trail Blazers,104,106,3.3,1.35,False,False,210,-2
+2018-02-25,,Utah Jazz,Dallas Mavericks,97,90,1.2,4.93,False,True,187,7
+2018-02-25,,New York Knicks,Boston Celtics,112,121,2.78,1.46,False,False,233,-9
+2018-02-25,,Philadelphia 76ers,Orlando Magic,116,105,1.19,5.03,False,True,221,11
+2018-02-25,,Golden State Warriors,Oklahoma City Thunder,112,80,1.18,5.14,False,True,192,32
+2018-02-25,,Miami Heat,Memphis Grizzlies,115,89,1.23,4.44,False,True,204,26
+2018-02-26,,Denver Nuggets,Houston Rockets,114,119,2.61,1.51,False,False,233,-5
+2018-02-26,,Washington Wizards,Philadelphia 76ers,109,94,1.82,2.03,False,True,203,15
+2018-02-26,,Charlotte Hornets,Detroit Pistons,114,98,1.53,2.6,False,True,212,16
+2018-02-26,,Milwaukee Bucks,New Orleans Pelicans,121,123,1.54,2.55,True,False,244,-2
+2018-02-26,,Cleveland Cavaliers,San Antonio Spurs,94,110,1.54,2.59,False,False,204,-16
+2018-02-27,,New York Knicks,Golden State Warriors,111,125,7.85,1.1,False,False,236,-14
+2018-02-27,,Toronto Raptors,Detroit Pistons,123,94,1.16,5.72,False,True,217,29
+2018-02-27,,Brooklyn Nets,Chicago Bulls,104,87,1.53,2.6,False,True,191,17
+2018-02-27,,Atlanta Hawks,Los Angeles Lakers,104,123,2.11,1.76,False,False,227,-19
+2018-02-27,,Oklahoma City Thunder,Orlando Magic,112,105,1.16,5.6,False,True,217,7
+2018-02-27,,New Orleans Pelicans,Phoenix Suns,125,116,1.31,3.56,False,True,241,9
+2018-02-27,,Dallas Mavericks,Indiana Pacers,109,103,2.32,1.63,False,True,212,6
+2018-02-27,,Utah Jazz,Houston Rockets,85,96,1.98,1.85,False,False,181,-11
+2018-02-27,,Sacramento Kings,Minnesota Timberwolves,100,118,2.74,1.47,False,False,218,-18
+2018-02-27,,Boston Celtics,Memphis Grizzlies,109,98,1.11,7.32,False,True,207,11
+2018-02-28,,Portland Trail Blazers,Sacramento Kings,116,99,1.1,7.42,False,True,215,17
+2018-02-28,,Denver Nuggets,Los Angeles Clippers,120,122,1.46,2.78,False,False,242,-2
+2018-02-28,,Milwaukee Bucks,Washington Wizards,104,107,1.68,2.25,False,False,211,-3
+2018-02-28,,Cleveland Cavaliers,Brooklyn Nets,129,123,1.15,5.84,False,True,252,6
+2018-02-28,,Charlotte Hornets,Chicago Bulls,118,103,1.13,6.3,False,True,221,15
+2018-02-28,,Miami Heat,Philadelphia 76ers,102,101,1.85,2.0,False,True,203,1
+2018-03-01,,Los Angeles Clippers,Houston Rockets,92,105,4.18,1.24,False,False,197,-13
+2018-03-01,,San Antonio Spurs,New Orleans Pelicans,116,121,1.51,2.63,False,False,237,-5
+2018-03-01,,Washington Wizards,Golden State Warriors,101,109,4.27,1.24,False,False,210,-8
+2018-03-01,,Dallas Mavericks,Oklahoma City Thunder,110,111,2.64,1.51,True,False,221,-1
+2018-03-01,,Atlanta Hawks,Indiana Pacers,107,102,2.58,1.53,False,True,209,5
+2018-03-01,,Boston Celtics,Charlotte Hornets,134,106,1.28,3.81,False,True,240,28
+2018-03-01,,Detroit Pistons,Milwaukee Bucks,110,87,1.84,2.01,False,True,197,23
+2018-03-01,,Orlando Magic,Toronto Raptors,104,117,4.56,1.22,False,False,221,-13
+2018-03-01,,Memphis Grizzlies,Phoenix Suns,102,110,1.68,2.24,False,False,212,-8
+2018-03-02,,Miami Heat,Los Angeles Lakers,113,131,1.46,2.8,False,False,244,-18
+2018-03-02,,Cleveland Cavaliers,Philadelphia 76ers,97,108,1.67,2.25,False,False,205,-11
+2018-03-02,,Sacramento Kings,Brooklyn Nets,116,111,2.18,1.71,True,True,227,5
+2018-03-02,,Portland Trail Blazers,Minnesota Timberwolves,108,99,1.48,2.73,False,True,207,9
+2018-03-03,,Los Angeles Clippers,New York Knicks,128,105,1.24,4.28,False,True,233,23
+2018-03-03,,Utah Jazz,Minnesota Timberwolves,116,108,1.33,3.46,False,True,224,8
+2018-03-03,,Chicago Bulls,Dallas Mavericks,108,100,2.11,1.76,False,True,208,8
+2018-03-03,,Phoenix Suns,Oklahoma City Thunder,116,124,3.88,1.27,False,False,240,-8
+2018-03-03,,Memphis Grizzlies,Denver Nuggets,102,108,4.13,1.25,False,False,210,-6
+2018-03-03,,Washington Wizards,Toronto Raptors,95,102,2.4,1.6,False,False,197,-7
+2018-03-03,,Atlanta Hawks,Golden State Warriors,109,114,8.82,1.08,False,False,223,-5
+2018-03-03,,Philadelphia 76ers,Charlotte Hornets,110,99,1.61,2.39,False,True,209,11
+2018-03-03,,Orlando Magic,Detroit Pistons,115,106,2.16,1.73,True,True,221,9
+2018-03-03,,Milwaukee Bucks,Indiana Pacers,96,103,1.6,2.41,False,False,199,-7
+2018-03-04,,Sacramento Kings,Utah Jazz,91,98,3.43,1.33,False,False,189,-7
+2018-03-04,,San Antonio Spurs,Los Angeles Lakers,112,116,1.46,2.8,False,False,228,-4
+2018-03-04,,Portland Trail Blazers,Oklahoma City Thunder,108,100,1.49,2.7,False,True,208,8
+2018-03-04,,Cleveland Cavaliers,Denver Nuggets,117,126,1.55,2.53,False,False,243,-9
+2018-03-04,,Miami Heat,Detroit Pistons,105,96,1.47,2.76,False,True,201,9
+2018-03-04,,Orlando Magic,Memphis Grizzlies,107,100,1.35,3.34,False,True,207,7
+2018-03-04,,Houston Rockets,Boston Celtics,123,120,1.27,3.99,False,True,243,3
+2018-03-05,,Atlanta Hawks,Phoenix Suns,113,112,1.8,2.05,False,True,225,1
+2018-03-05,,Washington Wizards,Indiana Pacers,95,98,1.57,2.49,False,False,193,-3
+2018-03-05,,Toronto Raptors,Charlotte Hornets,103,98,1.23,4.3,False,True,201,5
+2018-03-05,,Dallas Mavericks,New Orleans Pelicans,109,126,2.39,1.6,False,False,235,-17
+2018-03-05,,Milwaukee Bucks,Philadelphia 76ers,118,110,2.0,1.84,False,True,228,8
+2018-03-05,,Sacramento Kings,New York Knicks,102,99,2.27,1.66,False,True,201,3
+2018-03-05,,Los Angeles Clippers,Brooklyn Nets,123,120,1.3,3.61,False,True,243,3
+2018-03-06,,Los Angeles Lakers,Portland Trail Blazers,103,108,2.11,1.76,False,False,211,-5
+2018-03-06,,Utah Jazz,Orlando Magic,94,80,1.19,4.95,False,True,174,14
+2018-03-06,,San Antonio Spurs,Memphis Grizzlies,100,98,1.1,7.85,False,True,198,2
+2018-03-06,,Miami Heat,Phoenix Suns,125,103,1.21,4.71,False,True,228,22
+2018-03-06,,Cleveland Cavaliers,Detroit Pistons,112,90,1.39,3.11,False,True,202,22
+2018-03-06,,Indiana Pacers,Milwaukee Bucks,92,89,1.7,2.2,False,True,181,3
+2018-03-06,,Chicago Bulls,Boston Celtics,89,105,3.54,1.31,False,False,194,-16
+2018-03-07,,Golden State Warriors,Brooklyn Nets,114,101,1.05,11.37,False,True,215,13
+2018-03-07,,Portland Trail Blazers,New York Knicks,111,87,1.17,5.26,False,True,198,24
+2018-03-07,,Dallas Mavericks,Denver Nuggets,118,107,3.11,1.38,False,True,225,11
+2018-03-07,,Los Angeles Clippers,New Orleans Pelicans,116,121,1.77,2.1,False,False,237,-5
+2018-03-07,,Toronto Raptors,Atlanta Hawks,106,90,1.09,8.03,False,True,196,16
+2018-03-07,,Charlotte Hornets,Philadelphia 76ers,114,128,2.02,1.82,False,False,242,-14
+2018-03-07,,Washington Wizards,Miami Heat,117,113,1.59,2.44,True,True,230,4
+2018-03-07,,Oklahoma City Thunder,Houston Rockets,112,122,2.74,1.47,False,False,234,-10
+2018-03-08,,Indiana Pacers,Utah Jazz,84,104,2.02,1.82,False,False,188,-20
+2018-03-08,,Milwaukee Bucks,Houston Rockets,99,110,2.96,1.41,False,False,209,-11
+2018-03-08,,Detroit Pistons,Toronto Raptors,119,121,2.82,1.45,True,False,240,-2
+2018-03-08,,Chicago Bulls,Memphis Grizzlies,119,110,1.61,2.39,False,True,229,9
+2018-03-08,,Sacramento Kings,New Orleans Pelicans,101,114,2.92,1.42,False,False,215,-13
+2018-03-08,,Los Angeles Lakers,Orlando Magic,108,107,1.37,3.22,False,True,215,1
+2018-03-08,,Denver Nuggets,Cleveland Cavaliers,108,113,1.64,2.33,False,False,221,-5
+2018-03-09,,Golden State Warriors,San Antonio Spurs,110,107,1.14,6.13,False,True,217,3
+2018-03-09,,Minnesota Timberwolves,Boston Celtics,109,117,2.18,1.71,False,False,226,-8
+2018-03-09,,Oklahoma City Thunder,Phoenix Suns,115,87,1.15,5.98,False,True,202,28
+2018-03-09,,Charlotte Hornets,Brooklyn Nets,111,125,1.33,3.38,False,False,236,-14
+2018-03-09,,Miami Heat,Philadelphia 76ers,108,99,1.88,1.95,False,True,207,9
+2018-03-10,,Indiana Pacers,Atlanta Hawks,112,87,1.26,4.13,False,True,199,25
+2018-03-10,,Detroit Pistons,Chicago Bulls,99,83,1.29,3.76,False,True,182,16
+2018-03-10,,Sacramento Kings,Orlando Magic,94,88,1.69,2.23,False,True,182,6
+2018-03-10,,Denver Nuggets,Los Angeles Lakers,125,116,1.35,3.34,False,True,241,9
+2018-03-10,,Los Angeles Clippers,Cleveland Cavaliers,116,102,1.97,1.87,False,True,218,14
+2018-03-10,,Milwaukee Bucks,New York Knicks,120,112,1.19,5.02,False,True,232,8
+2018-03-10,,New Orleans Pelicans,Washington Wizards,97,116,2.35,1.63,False,False,213,-19
+2018-03-10,,Toronto Raptors,Houston Rockets,108,105,2.29,1.65,False,True,213,3
+2018-03-10,,Memphis Grizzlies,Utah Jazz,78,95,5.35,1.17,False,False,173,-17
+2018-03-10,,Portland Trail Blazers,Golden State Warriors,125,108,1.88,1.96,False,True,233,17
+2018-03-11,,Charlotte Hornets,Phoenix Suns,122,115,1.09,8.11,False,True,237,7
+2018-03-11,,Miami Heat,Washington Wizards,129,102,1.58,2.45,False,True,231,27
+2018-03-11,,Oklahoma City Thunder,San Antonio Spurs,104,94,1.56,2.51,False,True,198,10
+2018-03-11,,Dallas Mavericks,Memphis Grizzlies,114,80,1.2,4.74,False,True,194,34
+2018-03-11,,Los Angeles Clippers,Orlando Magic,113,105,1.11,7.08,False,True,218,8
+2018-03-12,,Brooklyn Nets,Philadelphia 76ers,97,120,2.92,1.43,False,False,217,-23
+2018-03-12,,Los Angeles Lakers,Cleveland Cavaliers,127,113,2.08,1.77,False,True,240,14
+2018-03-12,,Boston Celtics,Indiana Pacers,97,99,1.53,2.59,False,False,196,-2
+2018-03-12,,Dallas Mavericks,Houston Rockets,82,105,5.43,1.17,False,False,187,-23
+2018-03-12,,New Orleans Pelicans,Utah Jazz,99,116,2.05,1.8,False,False,215,-17
+2018-03-12,,Atlanta Hawks,Chicago Bulls,122,129,1.77,2.1,False,False,251,-7
+2018-03-12,,Minnesota Timberwolves,Golden State Warriors,109,103,2.36,1.62,False,True,212,6
+2018-03-12,,New York Knicks,Toronto Raptors,106,132,5.2,1.18,False,False,238,-26
+2018-03-12,,Denver Nuggets,Sacramento Kings,130,104,1.12,7.02,False,True,234,26
+2018-03-13,,Oklahoma City Thunder,Sacramento Kings,106,101,1.07,9.35,False,True,207,5
+2018-03-13,,Memphis Grizzlies,Milwaukee Bucks,103,121,3.67,1.29,False,False,224,-18
+2018-03-13,,Houston Rockets,San Antonio Spurs,109,93,1.12,6.74,False,True,202,16
+2018-03-13,,Portland Trail Blazers,Miami Heat,115,99,1.4,3.06,False,True,214,16
+2018-03-14,,Los Angeles Lakers,Denver Nuggets,112,103,2.1,1.77,False,True,215,9
+2018-03-14,,Phoenix Suns,Cleveland Cavaliers,107,129,3.55,1.31,False,False,236,-22
+2018-03-14,,5,7,4,8,9.0,10.0,False,False,12,-4
+2018-03-14,,Utah Jazz,Detroit Pistons,110,79,1.23,4.31,False,True,189,31
+2018-03-14,,San Antonio Spurs,Orlando Magic,108,72,1.15,5.79,False,True,180,36
+2018-03-14,,New York Knicks,Dallas Mavericks,97,110,1.91,1.92,False,False,207,-13
+2018-03-14,,Chicago Bulls,Los Angeles Clippers,106,112,3.65,1.3,False,False,218,-6
+2018-03-14,,Atlanta Hawks,Oklahoma City Thunder,107,119,3.12,1.38,False,False,226,-12
+2018-03-14,,Brooklyn Nets,Toronto Raptors,102,116,4.56,1.21,False,False,218,-14
+2018-03-14,,Philadelphia 76ers,Indiana Pacers,98,101,1.38,3.19,False,False,199,-3
+2018-03-14,,Washington Wizards,Minnesota Timberwolves,111,116,1.64,2.3,False,False,227,-5
+2018-03-14,,New Orleans Pelicans,Charlotte Hornets,119,115,1.49,2.67,False,True,234,4
+2018-03-15,,Golden State Warriors,Los Angeles Lakers,117,106,1.39,3.12,False,True,223,11
+2018-03-15,,Sacramento Kings,Miami Heat,123,119,3.4,1.34,True,True,242,4
+2018-03-15,,Boston Celtics,Washington Wizards,124,125,2.5,1.55,True,False,249,-1
+2018-03-15,,Orlando Magic,Milwaukee Bucks,126,117,5.28,1.17,False,True,243,9
+2018-03-16,,Indiana Pacers,Toronto Raptors,99,106,2.49,1.56,False,False,205,-7
+2018-03-16,,New York Knicks,Philadelphia 76ers,110,118,5.32,1.17,False,False,228,-8
+2018-03-16,,Atlanta Hawks,Charlotte Hornets,117,129,2.8,1.46,False,False,246,-12
+2018-03-16,,Houston Rockets,Los Angeles Clippers,101,96,1.12,6.66,False,True,197,5
+2018-03-16,,Memphis Grizzlies,Chicago Bulls,110,111,1.73,2.15,False,False,221,-1
+2018-03-16,,San Antonio Spurs,New Orleans Pelicans,98,93,1.54,2.56,False,True,191,5
+2018-03-16,,Utah Jazz,Phoenix Suns,116,88,1.06,10.65,False,True,204,28
+2018-03-16,,Denver Nuggets,Detroit Pistons,120,113,1.24,4.23,False,True,233,7
+2018-03-16,,Portland Trail Blazers,Cleveland Cavaliers,113,105,1.42,2.94,False,True,218,8
+2018-03-17,,Golden State Warriors,Sacramento Kings,93,98,1.25,4.19,False,False,191,-5
+2018-03-17,,Los Angeles Lakers,Miami Heat,91,92,1.71,2.21,False,False,183,-1
+2018-03-17,,Philadelphia 76ers,Brooklyn Nets,120,116,1.24,4.16,False,True,236,4
+2018-03-17,,Toronto Raptors,Dallas Mavericks,122,115,1.14,6.13,True,True,237,7
+2018-03-17,,Orlando Magic,Boston Celtics,83,92,3.23,1.37,False,False,175,-9
+2018-03-17,,Oklahoma City Thunder,Los Angeles Clippers,121,113,1.39,3.1,False,True,234,8
+2018-03-18,,San Antonio Spurs,Minnesota Timberwolves,117,101,1.55,2.54,False,True,218,16
+2018-03-18,,Portland Trail Blazers,Detroit Pistons,100,87,1.23,4.45,False,True,187,13
+2018-03-18,,Phoenix Suns,Golden State Warriors,109,124,2.65,1.5,False,False,233,-15
+2018-03-18,,Utah Jazz,Sacramento Kings,103,97,1.04,12.74,False,True,200,6
+2018-03-18,,Chicago Bulls,Cleveland Cavaliers,109,114,3.5,1.32,False,False,223,-5
+2018-03-18,,Memphis Grizzlies,Denver Nuggets,101,94,3.48,1.32,False,True,195,7
+2018-03-18,,Brooklyn Nets,Dallas Mavericks,114,106,1.55,2.5,False,True,220,8
+2018-03-18,,New York Knicks,Charlotte Hornets,124,101,3.2,1.37,False,True,225,23
+2018-03-18,,New Orleans Pelicans,Houston Rockets,101,107,4.17,1.25,False,False,208,-6
+2018-03-18,,Washington Wizards,Indiana Pacers,109,102,1.52,2.62,False,True,211,7
+2018-03-18,,Milwaukee Bucks,Atlanta Hawks,122,117,1.13,6.42,False,True,239,5
+2018-03-19,,Toronto Raptors,Oklahoma City Thunder,125,132,1.39,3.09,False,False,257,-7
+2018-03-19,,New Orleans Pelicans,Boston Celtics,108,89,1.66,2.28,False,True,197,19
+2018-03-19,,Minnesota Timberwolves,Houston Rockets,120,129,3.59,1.31,False,False,249,-9
+2018-03-19,,Los Angeles Clippers,Portland Trail Blazers,109,122,1.87,1.97,False,False,231,-13
+2018-03-20,,Sacramento Kings,Detroit Pistons,90,106,2.48,1.57,False,False,196,-16
+2018-03-20,,San Antonio Spurs,Golden State Warriors,89,75,1.28,3.79,False,True,164,14
+2018-03-20,,Brooklyn Nets,Memphis Grizzlies,118,115,1.28,3.8,False,True,233,3
+2018-03-20,,Cleveland Cavaliers,Milwaukee Bucks,124,117,1.67,2.25,False,True,241,7
+2018-03-20,,Miami Heat,Denver Nuggets,149,141,1.81,2.04,True,True,290,8
+2018-03-20,,Philadelphia 76ers,Charlotte Hornets,108,94,1.23,4.34,False,True,202,14
+2018-03-20,,Indiana Pacers,Los Angeles Lakers,110,100,1.45,2.81,False,True,210,10
+2018-03-20,,New York Knicks,Chicago Bulls,110,92,1.48,2.74,False,True,202,18
+2018-03-21,,5,7,4,8,9.0,10.0,False,False,12,-4
+2018-03-21,,Portland Trail Blazers,Houston Rockets,111,115,2.59,1.52,False,False,226,-4
+2018-03-21,,Utah Jazz,Atlanta Hawks,94,99,1.06,10.57,False,False,193,-5
+2018-03-21,,Phoenix Suns,Detroit Pistons,88,115,3.38,1.34,False,False,203,-27
+2018-03-21,,Boston Celtics,Oklahoma City Thunder,100,99,2.67,1.5,False,True,199,1
+2018-03-21,,New Orleans Pelicans,Dallas Mavericks,115,105,1.34,3.42,False,True,220,10
+2018-03-21,,Minnesota Timberwolves,Los Angeles Clippers,123,109,1.6,2.41,False,True,232,14
+2018-03-21,,Orlando Magic,Toronto Raptors,86,93,4.62,1.21,False,False,179,-7
+2018-03-22,,Chicago Bulls,Denver Nuggets,102,135,4.83,1.2,False,False,237,-33
+2018-03-22,,New Orleans Pelicans,Indiana Pacers,96,92,1.85,1.99,False,True,188,4
+2018-03-22,,Milwaukee Bucks,Los Angeles Clippers,120,127,1.45,2.84,False,False,247,-7
+2018-03-22,,San Antonio Spurs,Washington Wizards,98,90,1.44,2.9,False,True,188,8
+2018-03-22,,Miami Heat,New York Knicks,119,98,1.18,5.18,False,True,217,21
+2018-03-22,,Cleveland Cavaliers,Toronto Raptors,132,129,2.05,1.81,False,True,261,3
+2018-03-22,,Philadelphia 76ers,Memphis Grizzlies,119,105,1.09,8.27,False,True,224,14
+2018-03-22,,Brooklyn Nets,Charlotte Hornets,105,111,1.97,1.87,False,False,216,-6
+2018-03-23,,Orlando Magic,Philadelphia 76ers,98,118,3.99,1.26,False,False,216,-20
+2018-03-23,,Charlotte Hornets,Memphis Grizzlies,140,79,1.23,4.35,False,True,219,61
+2018-03-23,,New Orleans Pelicans,Los Angeles Lakers,128,125,1.72,2.18,False,True,253,3
+2018-03-23,,Houston Rockets,Detroit Pistons,100,96,1.13,6.43,True,True,196,4
+2018-03-23,,Dallas Mavericks,Utah Jazz,112,119,4.13,1.25,False,False,231,-7
+2018-03-23,,Sacramento Kings,Atlanta Hawks,105,90,1.62,2.35,False,True,195,15
+2018-03-24,,San Antonio Spurs,Utah Jazz,124,120,1.63,2.34,True,True,244,4
+2018-03-24,,Golden State Warriors,Atlanta Hawks,106,94,1.13,6.43,False,True,200,12
+2018-03-24,,Portland Trail Blazers,Boston Celtics,100,105,1.3,3.65,False,False,205,-5
+2018-03-24,,Chicago Bulls,Milwaukee Bucks,105,118,2.54,1.55,False,False,223,-13
+2018-03-24,,Oklahoma City Thunder,Miami Heat,105,99,1.38,3.15,False,True,204,6
+2018-03-24,,Toronto Raptors,Brooklyn Nets,116,112,1.12,6.78,False,True,228,4
+2018-03-24,,Cleveland Cavaliers,Phoenix Suns,120,95,1.04,13.47,False,True,215,25
+2018-03-24,,New York Knicks,Minnesota Timberwolves,104,108,3.61,1.31,False,False,212,-4
+2018-03-24,,Washington Wizards,Denver Nuggets,100,108,1.82,2.03,False,False,208,-8
+2018-03-24,,Indiana Pacers,Los Angeles Clippers,109,104,1.61,2.4,False,True,213,5
+2018-03-25,,Philadelphia 76ers,Minnesota Timberwolves,120,108,1.27,3.97,False,True,228,12
+2018-03-25,,Orlando Magic,Phoenix Suns,105,99,1.32,3.53,False,True,204,6
+2018-03-25,,Detroit Pistons,Chicago Bulls,117,95,1.07,9.22,False,True,212,22
+2018-03-25,,Memphis Grizzlies,Los Angeles Lakers,93,100,3.23,1.37,False,False,193,-7
+2018-03-25,,Houston Rockets,New Orleans Pelicans,114,91,1.24,4.25,False,True,205,23
+2018-03-25,,Dallas Mavericks,Charlotte Hornets,98,102,2.2,1.71,False,False,200,-4
+2018-03-26,,Golden State Warriors,Utah Jazz,91,110,4.82,1.2,False,False,201,-19
+2018-03-26,,Houston Rockets,Atlanta Hawks,118,99,1.07,10.06,False,True,217,19
+2018-03-26,,Oklahoma City Thunder,Portland Trail Blazers,105,108,1.57,2.49,False,False,213,-3
+2018-03-26,,Sacramento Kings,Boston Celtics,93,104,3.29,1.36,False,False,197,-11
+2018-03-26,,Brooklyn Nets,Cleveland Cavaliers,114,121,3.38,1.34,False,False,235,-7
+2018-03-26,,Washington Wizards,New York Knicks,97,101,1.15,5.95,False,False,198,-4
+2018-03-26,,Indiana Pacers,Miami Heat,113,107,1.63,2.34,True,True,220,6
+2018-03-26,,Milwaukee Bucks,San Antonio Spurs,106,103,2.08,1.78,False,True,209,3
+2018-03-26,,Toronto Raptors,Los Angeles Clippers,106,117,1.24,4.28,False,False,223,-11
+2018-03-27,,Phoenix Suns,Boston Celtics,94,102,5.61,1.16,False,False,196,-8
+2018-03-27,,Charlotte Hornets,New York Knicks,137,128,1.12,6.7,True,True,265,9
+2018-03-27,,Detroit Pistons,Los Angeles Lakers,112,106,1.42,2.98,False,True,218,6
+2018-03-27,,Philadelphia 76ers,Denver Nuggets,123,104,1.46,2.78,False,True,227,19
+2018-03-27,,Minnesota Timberwolves,Memphis Grizzlies,93,101,1.07,9.67,False,False,194,-8
+2018-03-28,,Washington Wizards,San Antonio Spurs,116,106,2.14,1.75,False,True,222,10
+2018-03-28,,Toronto Raptors,Denver Nuggets,114,110,1.25,4.13,False,True,224,4
+2018-03-28,,New Orleans Pelicans,Portland Trail Blazers,103,107,2.01,1.84,False,False,210,-4
+2018-03-28,,Miami Heat,Cleveland Cavaliers,98,79,2.06,1.8,False,True,177,19
+2018-03-28,,Houston Rockets,Chicago Bulls,118,86,1.07,9.7,False,True,204,32
+2018-03-28,,5,7,4,8,9.0,10.0,False,False,12,-4
+2018-03-28,,Sacramento Kings,Dallas Mavericks,97,103,1.71,2.2,False,False,200,-6
+2018-03-28,,Los Angeles Clippers,Milwaukee Bucks,105,98,1.65,2.32,False,True,203,7
+2018-03-28,,Golden State Warriors,Indiana Pacers,81,92,3.91,1.28,False,False,173,-11
+2018-03-29,,Los Angeles Lakers,Dallas Mavericks,103,93,1.24,4.21,False,True,196,10
+2018-03-29,,Phoenix Suns,Los Angeles Clippers,99,111,6.0,1.14,False,False,210,-12
+2018-03-29,,Utah Jazz,Boston Celtics,94,97,1.18,5.16,False,False,191,-3
+2018-03-29,,Philadelphia 76ers,New York Knicks,118,101,1.06,10.16,False,True,219,17
+2018-03-29,,Memphis Grizzlies,Portland Trail Blazers,108,103,3.2,1.37,False,True,211,5
+2018-03-29,,Orlando Magic,Brooklyn Nets,104,111,2.26,1.67,False,False,215,-7
+2018-03-29,,Charlotte Hornets,Cleveland Cavaliers,105,118,1.75,2.13,False,False,223,-13
+2018-03-29,,Minnesota Timberwolves,Atlanta Hawks,126,114,1.08,8.55,False,True,240,12
+2018-03-30,,Golden State Warriors,Milwaukee Bucks,107,116,1.56,2.52,False,False,223,-9
+2018-03-30,,Sacramento Kings,Indiana Pacers,103,106,4.0,1.26,False,False,209,-3
+2018-03-30,,Miami Heat,Chicago Bulls,103,92,1.07,9.36,False,True,195,11
+2018-03-30,,Detroit Pistons,Washington Wizards,103,92,2.18,1.72,False,True,195,11
+2018-03-30,,San Antonio Spurs,Oklahoma City Thunder,103,99,1.83,2.02,False,True,202,4
+2018-03-31,,Portland Trail Blazers,Los Angeles Clippers,105,96,1.38,3.15,False,True,201,9
+2018-03-31,,Utah Jazz,Memphis Grizzlies,107,97,1.04,12.77,False,True,204,10
+2018-03-31,,Dallas Mavericks,Minnesota Timberwolves,92,93,3.09,1.39,False,False,185,-1
+2018-03-31,,Los Angeles Lakers,Milwaukee Bucks,122,124,1.96,1.88,True,False,246,-2
+2018-03-31,,Oklahoma City Thunder,Denver Nuggets,125,126,1.58,2.46,True,False,251,-1
+2018-03-31,,Houston Rockets,Phoenix Suns,104,103,1.02,17.65,False,True,207,1
+2018-03-31,,Atlanta Hawks,Philadelphia 76ers,91,101,3.99,1.27,False,False,192,-10
+2018-03-31,,Orlando Magic,Chicago Bulls,82,90,1.38,3.19,False,False,172,-8
+2018-03-31,,Cleveland Cavaliers,New Orleans Pelicans,107,102,1.48,2.72,False,True,209,5
+2018-04-01,,Washington Wizards,Charlotte Hornets,107,93,1.38,3.14,False,True,200,14
+2018-04-01,,New York Knicks,Detroit Pistons,109,115,2.64,1.51,False,False,224,-6
+2018-04-01,,Boston Celtics,Toronto Raptors,110,99,2.64,1.51,False,True,209,11
+2018-04-01,,Miami Heat,Brooklyn Nets,109,110,1.25,4.1,True,False,219,-1
+2018-04-01,,Sacramento Kings,Golden State Warriors,96,112,4.31,1.24,False,False,208,-16
+2018-04-02,,Denver Nuggets,Milwaukee Bucks,128,125,1.45,2.85,True,True,253,3
+2018-04-02,,Golden State Warriors,Phoenix Suns,117,107,1.04,12.05,False,True,224,10
+2018-04-02,,Minnesota Timberwolves,Utah Jazz,97,121,2.22,1.69,False,False,218,-24
+2018-04-02,,Los Angeles Lakers,Sacramento Kings,83,84,1.3,3.69,False,False,167,-1
+2018-04-02,,Portland Trail Blazers,Memphis Grizzlies,113,98,1.05,11.87,False,True,211,15
+2018-04-02,,Atlanta Hawks,Orlando Magic,94,88,1.81,2.06,False,True,182,6
+2018-04-02,,Los Angeles Clippers,Indiana Pacers,104,111,1.66,2.29,False,False,215,-7
+2018-04-02,,Cleveland Cavaliers,Dallas Mavericks,98,87,1.15,6.01,False,True,185,11
+2018-04-02,,New Orleans Pelicans,Oklahoma City Thunder,104,109,1.96,1.87,False,False,213,-5
+2018-04-02,,Chicago Bulls,Washington Wizards,113,94,3.75,1.29,False,True,207,19
+2018-04-02,,San Antonio Spurs,Houston Rockets,100,83,1.94,1.9,False,True,183,17
+2018-04-02,,Charlotte Hornets,Philadelphia 76ers,102,119,2.26,1.68,False,False,221,-17
+2018-04-02,,Brooklyn Nets,Detroit Pistons,96,108,1.94,1.9,False,False,204,-12
+2018-04-04,,Los Angeles Clippers,San Antonio Spurs,113,110,2.08,1.79,False,True,223,3
+2018-04-04,,Phoenix Suns,Sacramento Kings,97,94,2.18,1.71,False,True,191,3
+2018-04-04,,Denver Nuggets,Indiana Pacers,107,104,1.54,2.55,False,True,211,3
+2018-04-04,,Utah Jazz,Los Angeles Lakers,117,110,1.12,6.71,False,True,227,7
+2018-04-04,,Dallas Mavericks,Portland Trail Blazers,115,109,3.69,1.3,False,True,224,6
+2018-04-04,,Chicago Bulls,Charlotte Hornets,120,114,2.77,1.47,False,True,234,6
+2018-04-04,,Oklahoma City Thunder,Golden State Warriors,107,111,1.58,2.47,False,False,218,-4
+2018-04-04,,Milwaukee Bucks,Boston Celtics,106,102,1.53,2.59,False,True,208,4
+2018-04-04,,Houston Rockets,Washington Wizards,120,104,1.24,4.23,False,True,224,16
+2018-04-04,,Miami Heat,Atlanta Hawks,101,98,1.08,8.87,False,True,199,3
+2018-04-04,,New York Knicks,Orlando Magic,73,97,1.87,1.97,False,False,170,-24
+2018-04-04,,Philadelphia 76ers,Brooklyn Nets,121,95,1.24,4.22,False,True,216,26
+2018-04-04,,Cleveland Cavaliers,Toronto Raptors,112,106,1.82,2.04,False,True,218,6
+2018-04-04,,5,7,4,8,9.0,10.0,False,False,12,-4
+2018-04-05,,Los Angeles Lakers,San Antonio Spurs,122,112,3.17,1.38,True,True,234,10
+2018-04-05,,Toronto Raptors,Boston Celtics,96,78,1.31,3.61,False,True,174,18
+2018-04-05,,Atlanta Hawks,Miami Heat,86,115,3.47,1.33,False,False,201,-29
+2018-04-05,,Detroit Pistons,Philadelphia 76ers,108,115,2.1,1.77,False,False,223,-7
+2018-04-05,,Orlando Magic,Dallas Mavericks,105,100,1.76,2.11,False,True,205,5
+2018-04-05,,New Orleans Pelicans,Memphis Grizzlies,123,95,1.07,9.31,False,True,218,28
+2018-04-06,,Indiana Pacers,Golden State Warriors,126,106,2.21,1.7,False,True,232,20
+2018-04-06,,Houston Rockets,Portland Trail Blazers,96,94,1.14,6.14,False,True,190,2
+2018-04-06,,Cleveland Cavaliers,Washington Wizards,119,115,1.42,2.97,False,True,234,4
+2018-04-06,,Milwaukee Bucks,Brooklyn Nets,111,119,1.21,4.7,False,False,230,-8
+2018-04-06,,Utah Jazz,Los Angeles Clippers,117,95,1.29,3.72,False,True,212,22
+2018-04-06,,Denver Nuggets,Minnesota Timberwolves,100,96,1.5,2.68,False,True,196,4
+2018-04-07,,Phoenix Suns,New Orleans Pelicans,103,122,7.5,1.1,False,False,225,-19
+2018-04-07,,Memphis Grizzlies,Sacramento Kings,93,94,2.47,1.58,False,False,187,-1
+2018-04-07,,Boston Celtics,Chicago Bulls,111,104,1.34,3.38,False,True,215,7
+2018-04-07,,Toronto Raptors,Indiana Pacers,92,73,1.29,3.73,False,True,165,19
+2018-04-07,,Orlando Magic,Charlotte Hornets,100,137,3.56,1.31,False,False,237,-37
+2018-04-07,,Washington Wizards,Atlanta Hawks,97,103,1.14,6.03,False,False,200,-6
+2018-04-07,,Los Angeles Lakers,Minnesota Timberwolves,96,113,2.75,1.47,False,False,209,-17
+2018-04-07,,Detroit Pistons,Dallas Mavericks,113,106,1.34,3.41,True,True,219,7
+2018-04-07,,New York Knicks,Miami Heat,122,98,4.45,1.22,False,True,220,24
+2018-04-07,,Philadelphia 76ers,Cleveland Cavaliers,132,130,1.62,2.37,False,True,262,2
+2018-04-08,,San Antonio Spurs,Portland Trail Blazers,116,105,1.45,2.84,False,True,221,11
+2018-04-08,,Golden State Warriors,New Orleans Pelicans,120,126,1.37,3.21,False,False,246,-6
+2018-04-08,,Los Angeles Clippers,Denver Nuggets,115,134,2.39,1.61,False,False,249,-19
+2018-04-08,,Chicago Bulls,Brooklyn Nets,96,124,3.03,1.4,False,False,220,-28
+2018-04-08,,New York Knicks,Milwaukee Bucks,102,115,4.14,1.25,False,False,217,-13
+2018-04-08,,Houston Rockets,Oklahoma City Thunder,102,108,1.48,2.74,False,False,210,-6
+2018-04-09,,Philadelphia 76ers,Dallas Mavericks,109,97,1.07,9.85,False,True,206,12
+2018-04-09,,Charlotte Hornets,Indiana Pacers,117,123,1.99,1.85,False,False,240,-6
+2018-04-09,,Boston Celtics,Atlanta Hawks,106,112,1.19,5.12,False,False,218,-6
+2018-04-09,,Memphis Grizzlies,Detroit Pistons,130,117,3.09,1.39,False,True,247,13
+2018-04-09,,Toronto Raptors,Orlando Magic,112,101,1.13,6.36,False,True,213,11
+2018-04-09,,Los Angeles Lakers,Utah Jazz,97,112,4.9,1.2,False,False,209,-15
+2018-04-09,,Phoenix Suns,Golden State Warriors,100,117,7.26,1.11,False,False,217,-17
+2018-04-10,,Los Angeles Clippers,New Orleans Pelicans,100,113,4.55,1.22,False,False,213,-13
+2018-04-10,,Denver Nuggets,Portland Trail Blazers,88,82,1.5,2.65,False,True,170,6
+2018-04-10,,San Antonio Spurs,Sacramento Kings,98,85,1.06,10.59,False,True,183,13
+2018-04-10,,Minnesota Timberwolves,Memphis Grizzlies,113,94,1.04,13.72,False,True,207,19
+2018-04-10,,Miami Heat,Oklahoma City Thunder,93,115,2.65,1.51,False,False,208,-22
+2018-04-10,,Brooklyn Nets,Chicago Bulls,114,105,1.33,3.43,False,True,219,9
+2018-04-10,,New York Knicks,Cleveland Cavaliers,109,123,7.63,1.1,False,False,232,-14
+2018-04-10,,Detroit Pistons,Toronto Raptors,98,108,3.0,1.42,False,False,206,-10
+2018-04-10,,Milwaukee Bucks,Orlando Magic,102,86,1.17,5.39,False,True,188,16
+2018-04-11,,Utah Jazz,Golden State Warriors,119,79,1.29,3.74,False,True,198,40
+2018-04-11,,Los Angeles Lakers,Houston Rockets,99,105,4.01,1.27,False,False,204,-6
+2018-04-11,,Dallas Mavericks,Phoenix Suns,97,124,1.68,2.24,False,False,221,-27
+2018-04-11,,Indiana Pacers,Charlotte Hornets,93,119,1.78,2.08,False,False,212,-26
+2018-04-11,,Atlanta Hawks,Philadelphia 76ers,113,121,5.4,1.17,False,False,234,-8
+2018-04-11,,5,7,4,8,9.0,10.0,False,False,12,-4
+2018-04-11,,Washington Wizards,Boston Celtics,113,101,1.3,3.67,False,True,214,12
+2018-04-12,,Orlando Magic,Washington Wizards,101,92,3.15,1.38,False,True,193,9
+2018-04-12,,New Orleans Pelicans,San Antonio Spurs,122,98,1.63,2.34,False,True,220,24
+2018-04-12,,Philadelphia 76ers,Milwaukee Bucks,130,95,1.37,3.19,False,True,225,35
+2018-04-12,,Miami Heat,Toronto Raptors,116,109,1.69,2.23,True,True,225,7
+2018-04-12,,Oklahoma City Thunder,Memphis Grizzlies,137,123,1.03,15.46,False,True,260,14
+2018-04-12,,Minnesota Timberwolves,Denver Nuggets,112,106,1.6,2.42,True,True,218,6
+2018-04-12,,Cleveland Cavaliers,New York Knicks,98,110,1.26,4.09,False,False,208,-12
+2018-04-12,,Chicago Bulls,Detroit Pistons,87,119,2.69,1.49,False,False,206,-32
+2018-04-12,,Boston Celtics,Brooklyn Nets,110,97,2.49,1.57,False,True,207,13
+2018-04-12,,Portland Trail Blazers,Utah Jazz,102,93,1.76,2.12,False,True,195,9
+2018-04-12,,Los Angeles Clippers,Los Angeles Lakers,100,115,1.71,2.19,False,False,215,-15
+2018-04-12,,Sacramento Kings,Houston Rockets,96,83,1.74,2.14,False,True,179,13
+2018-04-15,Playoffs,Portland Trail Blazers,New Orleans Pelicans,95,97,1.43,2.91,False,False,192,-2
+2018-04-15,Playoffs,Golden State Warriors,San Antonio Spurs,113,92,1.25,4.2,False,True,205,21
+2018-04-15,Playoffs,Toronto Raptors,Washington Wizards,114,106,1.26,4.06,False,True,220,8
+2018-04-15,Playoffs,Philadelphia 76ers,Miami Heat,130,103,1.4,3.06,False,True,233,27
+2018-04-16,Playoffs,Cleveland Cavaliers,Indiana Pacers,80,98,1.28,3.83,False,False,178,-18
+2018-04-16,Playoffs,Houston Rockets,Minnesota Timberwolves,104,101,1.1,7.93,False,True,205,3
+2018-04-16,Playoffs,Boston Celtics,Milwaukee Bucks,113,107,1.58,2.46,True,True,220,6
+2018-04-16,Playoffs,Oklahoma City Thunder,Utah Jazz,116,108,1.5,2.67,False,True,224,8
+2018-04-17,Playoffs,Philadelphia 76ers,Miami Heat,103,113,1.33,3.42,False,False,216,-10
+2018-04-17,Playoffs,Golden State Warriors,San Antonio Spurs,116,101,1.17,5.46,False,True,217,15
+2018-04-18,Playoffs,Toronto Raptors,Washington Wizards,130,119,1.33,3.45,False,True,249,11
+2018-04-18,Playoffs,Boston Celtics,Milwaukee Bucks,120,106,1.87,1.97,False,True,226,14
+2018-04-18,Playoffs,Portland Trail Blazers,New Orleans Pelicans,102,111,1.35,3.3,False,False,213,-9
+2018-04-19,Playoffs,Cleveland Cavaliers,Indiana Pacers,100,97,1.23,4.31,False,True,197,3
+2018-04-19,Playoffs,Houston Rockets,Minnesota Timberwolves,102,82,1.13,6.26,False,True,184,20
+2018-04-19,Playoffs,Oklahoma City Thunder,Utah Jazz,95,102,1.58,2.45,False,False,197,-7
+2018-04-20,Playoffs,Miami Heat,Philadelphia 76ers,108,128,2.23,1.69,False,False,236,-20
+2018-04-20,Playoffs,New Orleans Pelicans,Portland Trail Blazers,119,102,1.62,2.38,False,True,221,17
+2018-04-20,Playoffs,San Antonio Spurs,Golden State Warriors,97,110,2.43,1.59,False,False,207,-13
+2018-04-21,Playoffs,Indiana Pacers,Cleveland Cavaliers,92,90,1.83,2.02,False,True,182,2
+2018-04-21,Playoffs,Washington Wizards,Toronto Raptors,122,103,1.88,1.96,False,True,225,19
+2018-04-21,Playoffs,Milwaukee Bucks,Boston Celtics,116,92,1.45,2.85,False,True,208,24
+2018-04-22,Playoffs,Utah Jazz,Oklahoma City Thunder,115,102,1.46,2.79,False,True,217,13
+2018-04-22,Playoffs,New Orleans Pelicans,Portland Trail Blazers,131,123,1.37,3.22,False,True,254,8
+2018-04-22,Playoffs,Miami Heat,Philadelphia 76ers,102,106,2.46,1.58,False,False,208,-4
+2018-04-22,Playoffs,Minnesota Timberwolves,Houston Rockets,121,105,3.04,1.41,False,True,226,16
+2018-04-23,Playoffs,Milwaukee Bucks,Boston Celtics,104,102,1.43,2.93,False,True,206,2
+2018-04-23,Playoffs,San Antonio Spurs,Golden State Warriors,103,90,3.28,1.36,False,True,193,13
+2018-04-23,Playoffs,Washington Wizards,Toronto Raptors,106,98,2.02,1.83,False,True,204,8
+2018-04-23,Playoffs,Indiana Pacers,Cleveland Cavaliers,100,104,2.04,1.82,False,False,204,-4
+2018-04-24,Playoffs,Minnesota Timberwolves,Houston Rockets,100,119,3.05,1.4,False,False,219,-19
+2018-04-24,Playoffs,Utah Jazz,Oklahoma City Thunder,113,96,1.49,2.7,False,True,209,17
+2018-04-25,Playoffs,Golden State Warriors,San Antonio Spurs,99,91,1.12,7.01,False,True,190,8
+2018-04-25,Playoffs,Boston Celtics,Milwaukee Bucks,92,87,1.51,2.64,False,True,179,5
+2018-04-25,Playoffs,5,7,4,8,9.0,10.0,False,False,12,-4
+2018-04-25,Playoffs,Philadelphia 76ers,Miami Heat,104,91,1.15,5.76,False,True,195,13
+2018-04-26,Playoffs,Toronto Raptors,Washington Wizards,108,98,1.32,3.56,False,True,206,10
+2018-04-26,Playoffs,Cleveland Cavaliers,Indiana Pacers,98,95,1.34,3.38,False,True,193,3
+2018-04-26,Playoffs,Oklahoma City Thunder,Utah Jazz,107,99,1.68,2.23,False,True,206,8
+2018-04-26,Playoffs,Houston Rockets,Minnesota Timberwolves,122,104,1.09,7.98,False,True,226,18
+2018-04-27,Playoffs,Milwaukee Bucks,Boston Celtics,97,86,1.49,2.69,False,True,183,11
+2018-04-28,Playoffs,Utah Jazz,Oklahoma City Thunder,96,91,1.33,3.49,False,True,187,5
+2018-04-28,Playoffs,Washington Wizards,Toronto Raptors,92,102,2.12,1.76,False,False,194,-10
+2018-04-28,Playoffs,Indiana Pacers,Cleveland Cavaliers,121,87,1.78,2.09,False,True,208,34
+2018-04-29,Playoffs,Golden State Warriors,New Orleans Pelicans,123,101,1.28,3.81,False,True,224,22
+2018-04-29,Playoffs,Boston Celtics,Milwaukee Bucks,112,96,1.49,2.69,False,True,208,16
+2018-04-30,Playoffs,Cleveland Cavaliers,Indiana Pacers,105,101,1.4,3.07,False,True,206,4
+2018-04-30,Playoffs,Houston Rockets,Utah Jazz,110,96,1.11,7.37,False,True,206,14
+2018-05-01,Playoffs,Boston Celtics,Philadelphia 76ers,117,101,2.69,1.49,False,True,218,16
+2018-05-02,Playoffs,Toronto Raptors,Cleveland Cavaliers,112,113,1.36,3.28,True,False,225,-1
+2018-05-02,Playoffs,Golden State Warriors,New Orleans Pelicans,121,116,1.12,6.64,False,True,237,5
+2018-05-03,Playoffs,Houston Rockets,Utah Jazz,108,116,1.11,7.22,False,False,224,-8
+2018-05-04,Playoffs,Boston Celtics,Philadelphia 76ers,108,103,2.46,1.58,False,True,211,5
+2018-05-04,Playoffs,Toronto Raptors,Cleveland Cavaliers,110,128,1.35,3.32,False,False,238,-18
+2018-05-05,Playoffs,New Orleans Pelicans,Golden State Warriors,119,100,2.81,1.46,False,True,219,19
+2018-05-05,Playoffs,Utah Jazz,Houston Rockets,92,113,2.7,1.49,False,False,205,-21
+2018-05-06,Playoffs,Philadelphia 76ers,Boston Celtics,98,101,1.2,4.76,True,False,199,-3
+2018-05-06,Playoffs,Cleveland Cavaliers,Toronto Raptors,105,103,1.52,2.63,False,True,208,2
+2018-05-07,Playoffs,New Orleans Pelicans,Golden State Warriors,92,118,3.15,1.38,False,False,210,-26
+2018-05-07,Playoffs,Utah Jazz,Houston Rockets,87,100,3.24,1.36,False,False,187,-13
+2018-05-08,Playoffs,Philadelphia 76ers,Boston Celtics,103,92,1.31,3.57,False,True,195,11
+2018-05-08,Playoffs,Cleveland Cavaliers,Toronto Raptors,128,93,1.47,2.75,False,True,221,35
+2018-05-09,Playoffs,Golden State Warriors,New Orleans Pelicans,113,104,1.11,7.12,False,True,217,9
+2018-05-09,Playoffs,Houston Rockets,Utah Jazz,112,102,1.1,7.57,False,True,214,10
+2018-05-10,Playoffs,Boston Celtics,Philadelphia 76ers,114,112,1.81,2.04,False,True,226,2
+2018-05-14,Playoffs,Boston Celtics,Cleveland Cavaliers,108,83,1.98,1.87,False,True,191,25
+2018-05-15,Playoffs,Houston Rockets,Golden State Warriors,106,119,1.77,2.11,False,False,225,-13
+2018-05-16,Playoffs,Boston Celtics,Cleveland Cavaliers,107,94,1.92,1.92,False,True,201,13
+2018-05-17,Playoffs,Houston Rockets,Golden State Warriors,127,105,1.8,2.06,False,True,232,22
+2018-05-20,Playoffs,Cleveland Cavaliers,Boston Celtics,116,86,1.34,3.39,False,True,202,30
+2018-05-21,Playoffs,Golden State Warriors,Houston Rockets,126,85,1.28,3.85,False,True,211,41
+2018-05-22,Playoffs,Cleveland Cavaliers,Boston Celtics,111,102,1.31,3.63,False,True,213,9
+2018-05-23,Playoffs,Golden State Warriors,Houston Rockets,92,95,1.25,4.23,False,False,187,-3
+2018-05-24,Playoffs,Boston Celtics,Cleveland Cavaliers,96,83,1.82,2.03,False,True,179,13
+2018-05-25,Playoffs,Houston Rockets,Golden State Warriors,98,94,1.95,1.89,False,True,192,4
+2018-05-26,Playoffs,Cleveland Cavaliers,Boston Celtics,109,99,1.3,3.67,False,True,208,10
+2018-05-27,Playoffs,Golden State Warriors,Houston Rockets,115,86,1.1,7.49,False,True,201,29
+2018-05-28,Playoffs,Boston Celtics,Cleveland Cavaliers,79,87,1.69,2.23,False,False,166,-8
+2018-05-29,Playoffs,Houston Rockets,Golden State Warriors,92,101,3.28,1.36,False,False,193,-9
+2018-06-01,Playoffs,Golden State Warriors,Cleveland Cavaliers,124,114,1.11,7.37,True,True,238,10
+2018-06-04,Playoffs,Golden State Warriors,Cleveland Cavaliers,122,103,1.18,5.23,False,True,225,19
+2018-06-07,Playoffs,Cleveland Cavaliers,Golden State Warriors,102,110,2.28,1.67,False,False,212,-8
+2018-06-09,Playoffs,Cleveland Cavaliers,Golden State Warriors,85,108,2.41,1.61,False,False,193,-23

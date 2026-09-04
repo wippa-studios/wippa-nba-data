@@ -1,0 +1,112 @@
+[
+  {
+    "test_season": "2021-22",
+    "train_seasons": [
+      "2018-19"
+    ],
+    "train_games": 1062,
+    "test_games": 1228,
+    "model_acc": 0.8273615635179153,
+    "market_acc": 0.6783387622149837,
+    "model_auc": 0.9084575359379135,
+    "market_auc": 0.7295095767624209,
+    "model_ll": 0.4001035988330841,
+    "market_ll": 0.6048316669603016,
+    "agreement_rate": 0.6832247557003257,
+    "model_only_correct": 286,
+    "market_only_correct": 103,
+    "n_bets": 389,
+    "bet_win_rate": 0.7352185089974294,
+    "bet_roi": 1.0780719794344473
+  },
+  {
+    "test_season": "2022-23",
+    "train_seasons": [
+      "2018-19",
+      "2021-22"
+    ],
+    "train_games": 2290,
+    "test_games": 1230,
+    "model_acc": 0.8284552845528456,
+    "market_acc": 0.6634146341463415,
+    "model_auc": 0.9056942544459644,
+    "market_auc": 0.6958504331965345,
+    "model_ll": 0.3882392346858978,
+    "market_ll": 0.6232669874476919,
+    "agreement_rate": 0.651219512195122,
+    "model_only_correct": 316,
+    "market_only_correct": 113,
+    "n_bets": 429,
+    "bet_win_rate": 0.7365967365967366,
+    "bet_roi": 1.0842890442890445
+  },
+  {
+    "test_season": "2023-24",
+    "train_seasons": [
+      "2018-19",
+      "2021-22",
+      "2022-23"
+    ],
+    "train_games": 3520,
+    "test_games": 1224,
+    "model_acc": 0.8602941176470589,
+    "market_acc": 0.6944444444444444,
+    "model_auc": 0.9325664264199655,
+    "market_auc": 0.7605314113597246,
+    "model_ll": 0.3348315954208374,
+    "market_ll": 0.579970392106561,
+    "agreement_rate": 0.6919934640522876,
+    "model_only_correct": 290,
+    "market_only_correct": 87,
+    "n_bets": 377,
+    "bet_win_rate": 0.7692307692307693,
+    "bet_roi": 1.2068700265251981
+  },
+  {
+    "test_season": "2024-25",
+    "train_seasons": [
+      "2018-19",
+      "2021-22",
+      "2022-23",
+      "2023-24"
+    ],
+    "train_games": 4744,
+    "test_games": 1224,
+    "model_acc": 0.8390522875816994,
+    "market_acc": 0.696078431372549,
+    "model_auc": 0.9299429862306368,
+    "market_auc": 0.7563790877796902,
+    "model_ll": 0.33831292390823364,
+    "market_ll": 0.5809959992090904,
+    "agreement_rate": 0.7050653594771242,
+    "model_only_correct": 268,
+    "market_only_correct": 93,
+    "n_bets": 361,
+    "bet_win_rate": 0.7423822714681441,
+    "bet_roi": 1.1687811634349028
+  },
+  {
+    "test_season": "2025-26",
+    "train_seasons": [
+      "2018-19",
+      "2021-22",
+      "2022-23",
+      "2023-24",
+      "2024-25"
+    ],
+    "train_games": 5968,
+    "test_games": 1224,
+    "model_acc": 0.8570261437908496,
+    "market_acc": 0.6936274509803921,
+    "model_auc": 0.9278019571799309,
+    "market_auc": 0.7658263948961938,
+    "model_ll": 0.3410048484802246,
+    "market_ll": 0.5705750815637353,
+    "agreement_rate": 0.696078431372549,
+    "model_only_correct": 286,
+    "market_only_correct": 86,
+    "n_bets": 372,
+    "bet_win_rate": 0.7688172043010753,
+    "bet_roi": 1.1503763440860215
+  }
+]

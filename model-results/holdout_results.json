@@ -1,0 +1,60 @@
+{
+  "train_seasons": [
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25"
+  ],
+  "test_seasons": [
+    "2025-26"
+  ],
+  "train_games": 4739,
+  "test_games": 1224,
+  "model_metrics": {
+    "acc": 0.8545751633986928,
+    "logloss": 0.354266494512558,
+    "auc": 0.921614132785467,
+    "brier": 0.1102173775434494
+  },
+  "market_metrics": {
+    "acc": 0.6936274509803921,
+    "logloss": 0.5705750815637353,
+    "auc": 0.7658263948961938,
+    "brier": 0.19447304676840227
+  },
+  "agreement_rate": 0.6952614379084967,
+  "model_only_correct": 285,
+  "market_only_correct": 88,
+  "feature_importance": {
+    "diff_ts_pct": 55.75324630737305,
+    "diff_efg_pct": 51.931739807128906,
+    "diff_roll_PLUS_MINUS_11": 19.720779418945312,
+    "diff_tov_per_poss": 19.09568977355957,
+    "diff_dreb_pct": 17.975093841552734,
+    "diff_roll_PLUS_MINUS_8": 17.459793090820312,
+    "diff_tov_pct": 16.556447982788086,
+    "diff_oreb_pct": 14.92978572845459,
+    "diff_roll_PLUS_MINUS_3": 14.370299339294434,
+    "home_is_b2b": 12.848949432373047,
+    "diff_roll_PLUS_MINUS_5": 12.3799467086792,
+    "away_ts_pct": 12.143043518066406,
+    "home_ts_pct": 11.94418716430664,
+    "away_is_b2b": 11.0020112991333,
+    "away_rest_days": 10.836939811706543,
+    "home_rest_days": 10.185276985168457,
+    "home_roll_PLUS_MINUS_11": 9.211335182189941,
+    "away_tov_pct": 9.202829360961914,
+    "diff_stl_blk_per_poss": 8.938973426818848,
+    "diff_roll_PTS_3": 8.904505729675293,
+    "home_roll_PLUS_MINUS_3": 8.873414993286133,
+    "away_oreb_pct": 8.59192180633545,
+    "home_roll_PLUS_MINUS_5": 8.556770324707031,
+    "home_games_last_14d": 8.330936431884766,
+    "home_tov_pct": 8.231435775756836,
+    "diff_roll_tov_pct_11": 8.181899070739746,
+    "home_efg_pct": 8.164241790771484,
+    "diff_roll_tov_pct_8": 8.029400825500488,
+    "diff_pace": 7.9911885261535645,
+    "home_oreb_pct": 7.983794689178467
+  }
+}
